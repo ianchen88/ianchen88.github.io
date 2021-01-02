@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 1. <small>Tao Li, Dianqi Han, **Yimin Chen**, Rui Zhang, and Yanchao Zhang. IndoorWaze: a crowdsourcing- based context-aware indoor navigation system, IEEE Transactions on Wireless Communication, vol. 19, no. 8, pp. 5461-5472, August 2020.</small><br>
 2. <small>Xin Yao, **Yimin Chen**, Rui Zhang, Yanchao Zhang, and Yaping Lin. Beware of what you share: inferring user locations in Venmo.  IEEE IoT Journal, vol. 5, no. 6, pp. 5109-5118, Dec. 2018.</small>
 <h3>Book Chapter</h3>
-1. <small>Leon Zeng and **Yimin Chen**. Applying behavioral finance to influence consumer decision-making and behavior via human-automation interaction. Human-automation interaction: Manufacturing, services and UX, Springer Nature, Switzerland, AG. In press.</small>
+1. Leon Zeng and **Yimin Chen**. Applying behavioral finance to influence consumer decision-making and behavior via human-automation interaction. Human-automation interaction: Manufacturing, services and UX, Springer Nature, Switzerland, AG. In press.
 
 <h2 id="teaching"> Teaching Experience</h2> 
 * <small>Teaching assistant for "ENGG 1100: Introduction to engineering design I", Chinese University of Hong Kong (Fall 2010, Fall 2011) </small>
