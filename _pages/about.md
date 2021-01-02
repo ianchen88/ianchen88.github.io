@@ -28,7 +28,7 @@ ul{
     margin-block-end: 0em;
 }
 ul li, ol li {
-    font-size: 0.25em;
+    font-size: 1em;
 }
 ul li, ol li {
     	margin-bottom: 0.em;
