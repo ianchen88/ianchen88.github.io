@@ -37,10 +37,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small> 10/2020:</small> <small style="color:red">I am actively searching for academic positions. **Here is my [CV](/files/CV_IanChen.pdf).** </small> 
+* <small>I am an experienced researcher passionate about pushing the boundaries of knowledge in machine/meta learning and networked systems. Here is my full **[CV](/files/CV_IanChen.pdf)**.</small> 
 <h2 id="biography"> Biography</h2>  
 
-<small> I am now a postdoctoral associate in Department of Computer Science at Virginia Tech. I am actively searching for academic positions. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. degree from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). Before that, I received my B.S. from School of Electronics Engineering and Computer Science at Peking University in 2010 and M.Phil. from Department of Electrical Engineering at Chinese University of Hong Kong in 2013. My primary research interests are security and privacy in machine/meta learning and networked systems. </small>
+<small> I am currently a postdoctoral associate in the Department of Computer Science at Virginia Tech. I am actively searching for academic positions. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Department of Electrical Engineering at Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems. </small>
 
 <h2 id="education"> Education</h2>  
 * <small>**Ph.D.** in Electrical Engineering, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/)<br>
@@ -55,12 +55,30 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Research engineer, Tencent (12/2018 - 11/2019)</small>  
 * <small>Research assistant, CNSG@Arizona State University, Tempe (08/2013 - 12/2018)</small>
 * <small>Research assistant, Chinese University of Hong Kong, Hong Kong (08/2010 - 04/2013)</small>
+<small>* 10/2020:</small> <small style="color:red">I am actively searching for academic positions. **Here is my [CV](/files/CV_IanChen.pdf).** </small> 
+<h2 id="biography"> Biography</h2>  
+
+<small> I am currently a postdoctoral associate in the Department of Computer Science at Virginia Tech. I am actively searching for academic positions. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Department of Electrical Engineering at Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems. </small>
+
+<h2 id="education"> Education</h2>  
+<small>* **Ph.D.** in Electrical Engineering, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/)<br>
+    Arizona State University, Tempe, AZ (2013 - 2018)</small> 
+<small>* **M.Phil.** in Electrical Engineering, advised by [Dr. Hon Ki Tsang](https://www.ee.cuhk.edu.hk/~hktsang/) <br>
+    Chinese University of Hong Kong, Hong Kong (2010 - 2013)</small>  
+<small>* **B.S.** in Electronics and Infomation Science and Technology<br>
+    Peking University, Beijing (2006 - 2010)</small> 
+
+<h2 id="experience">Professional Experience</h2> 
+<small>* Postdoctoral associate, CNSR@Virginia Tech (12/2019 - Present)</small> 
+<small>* Research engineer, Tencent (12/2018 - 11/2019)</small>  
+<small>* Research assistant, CNSG@Arizona State University, Tempe (08/2013 - 12/2018)</small>
+<small>* Research assistant, Chinese University of Hong Kong, Hong Kong (08/2010 - 04/2013)</small>
 
 <h2 id="research">Research Interests</h2> 
 <small>My primary research interests encompass security and privacy in machine/meta learning and networked systems. Currently I am working on</small>
-* <small>private learning in deep/meta learning,</small> 
-* <small>adversarial machine learning, and</small>  
-* <small>anomaly detection for edge/mobile computing and IoT.</small>
+<small>* private learning in deep/meta learning,</small> 
+<small>* adversarial machine learning, and</small>  
+<small>* anomaly detection for edge/mobile computing and IoT.</small>
 
 <h2 id="publication">Selected Publications</h2> 
 <h3>Conference Proceedings</h3>
@@ -81,29 +99,29 @@ h1, h2, h3, h4, h5, h6 {
 <small>1. Leon Zeng and **Yimin Chen**. Applying behavioral finance to influence consumer decision-making and behavior via human-automation interaction. Human-automation interaction: Manufacturing, services and UX, Springer Nature, Switzerland, AG. In press.</small>
 
 <h2 id="teaching"> Teaching Experience</h2> 
-* <small>Teaching assistant for "ENGG 1100: Introduction to engineering design I", Chinese University of Hong Kong (Fall 2010, Fall 2011) </small>
-* <small>Teaching assistant for "ENGG 2420: Complex analysis and differential equations for engineers", Chinese University of Hong Kong (Spring 2011, Spring 2012) </small>
+<small>* Teaching assistant for "ENGG 1100: Introduction to engineering design I", Chinese University of Hong Kong (Fall 2010, Fall 2011) </small>
+<small>* Teaching assistant for "ENGG 2420: Complex analysis and differential equations for engineers", Chinese University of Hong Kong (Spring 2011, Spring 2012) </small>
 
 <h2 id="award"> Awards and Recognitions</h2> 
-* <small>Graduate Student Travel Fund of Dean's Office, School of Electrical, Computer, and Energy Engineering, Arizona State University, Tempe (2018) </small>
-* <small>IEEE INFOCOM Student Travel Grant (2017) </small>
-* <small>IEEE INFOCOM Student Travel Grant (2015) </small>
-* <small>Tutor Commendation Award, Department of Electrical Engineering, Chinese University of Hong Kong (2011)</small>
-* <small>Lee Wai Wing Scholarship for Outstanding Undergraduate Student, Peking University (2009)</small>
+<small>* Graduate Student Travel Fund of Dean's Office, School of Electrical, Computer, and Energy Engineering, Arizona State University, Tempe (2018) </small>
+<small>* IEEE INFOCOM Student Travel Grant (2017) </small>
+<small>* IEEE INFOCOM Student Travel Grant (2015) </small>
+<small>* Tutor Commendation Award, Department of Electrical Engineering, Chinese University of Hong Kong (2011)</small>
+<small>* Lee Wai Wing Scholarship for Outstanding Undergraduate Student, Peking University (2009)</small>
 
 <h2 id="service">Professional Services</h2>  
 <small>**Program Committee Member:**</small>  
-* <small>ACM WiSec 2020</small>
+<small>* ACM WiSec 2020</small>
   
 <small>**Conference Reviewer:**</small>   
-* <small>ACM WiSec 2020 </small>
-* <small>IEEE CHASE 2016 </small>
-* <small>IEEE PerCom 2016 </small>
-* <small>ACM AsiaCCS 2015 </small>
-* <small>IEEE INFOCOM 2015 </small>
+<small>* ACM WiSec 2020 </small>
+<small>* IEEE CHASE 2016 </small>
+<small>* IEEE PerCom 2016 </small>
+<small>* ACM AsiaCCS 2015 </small>
+<small>* IEEE INFOCOM 2015 </small>
 
 <small>**Journal Reviewer:**</small>  
-* <small>IEEE/ACM Transactions on Network (ToN)</small>
-* <small>IEEE Transactions on Vehicular Technology (TVT)</small>
-* <small>IEEE Transactions on Mobile Computing (TMC)</small>
-* <small>IEEE Access</small>
+<small>* IEEE/ACM Transactions on Network (ToN)</small>
+<small>* IEEE Transactions on Vehicular Technology (TVT)</small>
+<small>* IEEE Transactions on Mobile Computing (TMC)</small>
+<small>* IEEE Access</small>
