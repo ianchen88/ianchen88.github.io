@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yimin (Ian) Chen"
   avatar           : "profile.png"
-  bio              : "Postdoc in Department of Computer Science, Virginia Tech"
+  bio              : "Postdoc in the Department of Computer Science, Virginia Tech"
   location         : "Falls Church, VA 22043"
   employer         :
-  pubmed           : "vt.edu"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T6qIjCYAAAAJ&hl=en"
   email            : "yiminchen@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
