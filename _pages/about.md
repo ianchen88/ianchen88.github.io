@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>I am an experienced researcher passionate about pushing the boundaries of knowledge in machine/meta learning and networked systems. Here is my full **[CV](/files/CV_IanChen.pdf)**.</small> 
+<small>I am an experienced researcher passionate about pushing the boundaries of knowledge in machine/meta learning and networked systems. Here is my full **[CV](/files/CV_IanChen.pdf)**.</small> 
 <h2 id="biography"> Biography</h2>  
 
 <small> I am currently a postdoctoral associate in the Department of Computer Science at Virginia Tech, and I am seeking new opportunities to further my career in academia. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Department of Electrical Engineering at Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems. </small>
@@ -56,34 +56,17 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Research assistant, CNSG@Arizona State University, Tempe (08/2013 - 12/2018)</small>
 * <small>Research assistant, Chinese University of Hong Kong, Hong Kong (08/2010 - 04/2013)</small>
 <small>* 10/2020:</small> <small style="color:red">I am actively searching for academic positions. **Here is my [CV](/files/CV_IanChen.pdf).** </small> 
-<h2 id="biography"> Biography</h2>  
-
-<small> I am currently a postdoctoral associate in the Department of Computer Science at Virginia Tech. I am actively searching for academic positions. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Department of Electrical Engineering at Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems. </small>
-
-<h2 id="education"> Education</h2>  
-<small>* **Ph.D.** in Electrical Engineering, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/)<br>
-    Arizona State University, Tempe, AZ (2013 - 2018)</small> 
-<small>* **M.Phil.** in Electrical Engineering, advised by [Dr. Hon Ki Tsang](https://www.ee.cuhk.edu.hk/~hktsang/) <br>
-    Chinese University of Hong Kong, Hong Kong (2010 - 2013)</small>  
-<small>* **B.S.** in Electronics and Infomation Science and Technology<br>
-    Peking University, Beijing (2006 - 2010)</small> 
-
-<h2 id="experience">Professional Experience</h2> 
-<small>* Postdoctoral associate, CNSR@Virginia Tech (12/2019 - Present)</small> 
-<small>* Research engineer, Tencent (12/2018 - 11/2019)</small>  
-<small>* Research assistant, CNSG@Arizona State University, Tempe (08/2013 - 12/2018)</small>
-<small>* Research assistant, Chinese University of Hong Kong, Hong Kong (08/2010 - 04/2013)</small>
 
 <h2 id="research">Research Interests</h2> 
 <small>My primary research interests encompass security and privacy in machine/meta learning and networked systems. Currently I am working on</small>
-<small>* private learning in deep/meta learning,</small> 
-<small>* adversarial machine learning, and</small>  
-<small>* anomaly detection for edge/mobile computing and IoT.</small>
+* <small>private learning in deep/meta learning,</small> 
+* <small>adversarial machine learning, and</small>  
+* <small>anomaly detection for edge/mobile computing and IoT.</small>
 
 <h2 id="publication">Selected Publications</h2> 
 <h3>Conference Proceedings</h3>
-<small>1. Ning Wang, **Yimin Chen**, Yang Hu, Wenjing Lou, and Y. Thomas Hou. MANDA: On Adversarial Example Detection for Network Intrusion Detection System.  IEEE Conference on Computer Communications (INFOCOM), Virtual Conference, May 2021.</small><br>
-<small>2. Dianqi Han, **Yimin Chen**, Tao Li, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. Proximity-Proof: secure and usable two-factor mobile authentication.  ACM MobiCom, New Delhi, India, Oct. 2018.</small><br>
+<small>1.</small> <small>Ning Wang, **Yimin Chen**, Yang Hu, Wenjing Lou, and Y. Thomas Hou. MANDA: On Adversarial Example Detection for Network Intrusion Detection System.  IEEE Conference on Computer Communications (INFOCOM), Virtual Conference, May 2021.</small><br>
+<small>2.</small> <small>Dianqi Han, **Yimin Chen**, Tao Li, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. Proximity-Proof: secure and usable two-factor mobile authentication.  ACM MobiCom, New Delhi, India, Oct. 2018.</small><br>
 <small>3. **Yimin Chen**, Tao Li, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. EyeTell: video-assisted touchscreen keystroke inference from eye movements.  IEEE S&P, San Francisco, CA, May 2018.</small><br>
 <small>4. Tao Li, **Yimin Chen**, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. Secure crowdsourced indoor positioning systems.  IEEE INFOCOM, Honolulu, HI, Apr. 2018.</small><br>
 <small>5. **Yimin Chen**, Jingchao Sun, Xiaocong Jin, Tao Li, Rui Zhang, and Yanchao Zhang. Your face your heart: Secure mobile face authentication with photoplethysmograms.  IEEE INFOCOM, Atlanta, GA, May 2017.</small><br>
