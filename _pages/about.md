@@ -64,21 +64,23 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="publication">Selected Publications</h2> 
 <h3>Conference Proceedings</h3>
-<small>1.</small> <small>Ning Wang, **Yimin Chen**, Yang Hu, Wenjing Lou, and Y. Thomas Hou. MANDA: On Adversarial Example Detection for Network Intrusion Detection System.  IEEE Conference on Computer Communications (INFOCOM), Virtual Conference, May 2021.</small><br>
-<small>2.</small> <small>Dianqi Han, **Yimin Chen**, Tao Li, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. Proximity-Proof: secure and usable two-factor mobile authentication.  ACM MobiCom, New Delhi, India, Oct. 2018.</small><br>
-3. <small>**Yimin Chen**, Tao Li, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. EyeTell: video-assisted touchscreen keystroke inference from eye movements.  IEEE S&P, San Francisco, CA, May 2018.</small><br>
-4. <small>Tao Li, **Yimin Chen**, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. Secure crowdsourced indoor positioning systems.  IEEE INFOCOM, Honolulu, HI, Apr. 2018.</small><br>
-<small>5. **Yimin Chen**, Jingchao Sun, Xiaocong Jin, Tao Li, Rui Zhang, and Yanchao Zhang. Your face your heart: Secure mobile face authentication with photoplethysmograms.  IEEE INFOCOM, Atlanta, GA, May 2017.</small><br>
-<small>6. **Yimin Chen**, Xiaocong Jin, Jingchao Sun, Rui Zhang, and Yanchao Zhang. POWERFUL: Mobile app fingerprinting via power analysis.  IEEE INFOCOM, Atlanta, GA, May 2017.</small><br>
-<small>7. Xiaocong Jin, Rui Zhang, **Yimin Chen**, Tao Li, and Yanchao Zhang. DPSense: Differentially private crowdsourced spectrum sensing.  ACM CCS, Vienna, Austria, Oct. 2016.</small><br>
-<small>8. Tao Li, **Yimin Chen**, Jingchao Sun, Xiaocong Jin, and Yanchao Zhang. iLock: Immediate and automatic locking of mobile devices against data theft.  ACM CCS, Vienna, Austria, Oct. 2016.</small><br>
-<small>9. Jingchao Sun, Xiaocong Jin, **Yimin Chen**, J. Zhang, Rui Zhang, and Yanchao Zhang. VISIBLE: Video-assisted keystroke inference from tablet backside motion.  ISOC NDSS, San Diego, CA, Feb. 2016.</small><br>
-<small>10. **Yimin Chen**, Jingchao Sun, Rui Zhang, and Yanchao Zhang. Your song your way: Rhythmbased two-factor authentication for multi-touch mobile devices.  IEEE INFOCOM, Hong Kong, China, Apr. 2015.</small><br>
+<small>
+	1. Ning Wang, **Yimin Chen**, Yang Hu, Wenjing Lou, and Y. Thomas Hou. MANDA: On Adversarial Example Detection for Network Intrusion Detection System.  IEEE Conference on Computer Communications (INFOCOM), Virtual Conference, May 2021.<br>
+	2. Dianqi Han, **Yimin Chen**, Tao Li, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. Proximity-Proof: secure and usable two-factor mobile authentication.  ACM MobiCom, New Delhi, India, Oct. 2018.<br>
+	3. **Yimin Chen**, Tao Li, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. EyeTell: video-assisted touchscreen keystroke inference from eye movements.  IEEE S&P, San Francisco, CA, May 2018.<br>
+	4. Tao Li, **Yimin Chen**, Rui Zhang, Yanchao Zhang, and Terri Hedgpeth. Secure crowdsourced indoor positioning systems.  IEEE INFOCOM, Honolulu, HI, Apr. 2018.<br>
+	5. **Yimin Chen**, Jingchao Sun, Xiaocong Jin, Tao Li, Rui Zhang, and Yanchao Zhang. Your face your heart: Secure mobile face authentication with photoplethysmograms.  IEEE INFOCOM, Atlanta, GA, May 2017.<br>
+	6. **Yimin Chen**, Xiaocong Jin, Jingchao Sun, Rui Zhang, and Yanchao Zhang. POWERFUL: Mobile app fingerprinting via power analysis.  IEEE INFOCOM, Atlanta, GA, May 2017.<br>
+	7. Xiaocong Jin, Rui Zhang, **Yimin Chen**, Tao Li, and Yanchao Zhang. DPSense: Differentially private crowdsourced spectrum sensing.  ACM CCS, Vienna, Austria, Oct. 2016.<br>
+	8. Tao Li, **Yimin Chen**, Jingchao Sun, Xiaocong Jin, and Yanchao Zhang. iLock: Immediate and automatic locking of mobile devices against data theft.  ACM CCS, Vienna, Austria, Oct. 2016.<br>
+	9. Jingchao Sun, Xiaocong Jin, **Yimin Chen**, J. Zhang, Rui Zhang, and Yanchao Zhang. VISIBLE: Video-assisted keystroke inference from tablet backside motion.  ISOC NDSS, San Diego, CA, Feb. 2016.<br>
+	10. **Yimin Chen**, Jingchao Sun, Rui Zhang, and Yanchao Zhang. Your song your way: Rhythmbased two-factor authentication for multi-touch mobile devices.  IEEE INFOCOM, Hong Kong, China, Apr. 2015.<br>
+	</small>
 <h3>Journal Article</h3>
-<small>1. Tao Li, Dianqi Han, **Yimin Chen**, Rui Zhang, and Yanchao Zhang. IndoorWaze: a crowdsourcing- based context-aware indoor navigation system, IEEE Transactions on Wireless Communication, vol. 19, no. 8, pp. 5461-5472, August 2020.</small><br>
-<small>2. Xin Yao, **Yimin Chen**, Rui Zhang, Yanchao Zhang, and Yaping Lin. Beware of what you share: inferring user locations in Venmo.  IEEE IoT Journal, vol. 5, no. 6, pp. 5109-5118, Dec. 2018.</small>
+1. <small>Tao Li, Dianqi Han, **Yimin Chen**, Rui Zhang, and Yanchao Zhang. IndoorWaze: a crowdsourcing- based context-aware indoor navigation system, IEEE Transactions on Wireless Communication, vol. 19, no. 8, pp. 5461-5472, August 2020.</small><br>
+2. <small>Xin Yao, **Yimin Chen**, Rui Zhang, Yanchao Zhang, and Yaping Lin. Beware of what you share: inferring user locations in Venmo.  IEEE IoT Journal, vol. 5, no. 6, pp. 5109-5118, Dec. 2018.</small>
 <h3>Book Chapter</h3>
-<small>1. Leon Zeng and **Yimin Chen**. Applying behavioral finance to influence consumer decision-making and behavior via human-automation interaction. Human-automation interaction: Manufacturing, services and UX, Springer Nature, Switzerland, AG. In press.</small>
+1. <small>Leon Zeng and **Yimin Chen**. Applying behavioral finance to influence consumer decision-making and behavior via human-automation interaction. Human-automation interaction: Manufacturing, services and UX, Springer Nature, Switzerland, AG. In press.</small>
 
 <h2 id="teaching"> Teaching Experience</h2> 
 * <small>Teaching assistant for "ENGG 1100: Introduction to engineering design I", Chinese University of Hong Kong (Fall 2010, Fall 2011) </small>
