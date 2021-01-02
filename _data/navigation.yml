@@ -4,14 +4,10 @@ main:
     url: /#biography
   - title: "Education"
     url: /#education
-  - title: "Experience"
-    url: /#experience  
   - title: "Publication"
     url: /#publication
   - title: "Service"
-    url: /#service   
-  - title: "Blog"
-    url: /blog
+    url: /#service
   - title: "CV"
     url: /files/ian_chen_cv.pdf 
     
