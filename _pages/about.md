@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "News!"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -37,7 +37,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>06/2020:</small> <small style="color:red">Start my full-time job as an applied scientist at Amazon Alexa AI ~</small>  
 <!-- * <small> 10/2019:</small> <small style="color:red">I am about to graduate in 2020 Spring and will join Amazon Alexa AI as an applied Scientist! </small>   -->
 <h2 id="biography"> Biography</h2>  
 
@@ -86,9 +85,3 @@ h1, h2, h3, h4, h5, h6 {
 * <small>IEEE INFOCOM Student Travel Grant (2015, 2017) </small>
 * <small>Tutor Commendation Award, Department of Electrical Engineering, Chinese University of Hong Kong (2011)</small>
 * <small>Lee Wai Wing Scholarship for Outstanding Undergraduate Student, Peking University (2009)</small>
-
-* <small>T'ung-li Yuan Memorial Fellowship, Indiana University Bloomington (2015 - 2018)</small>
-* <small>Clayton A. Shepherd Scholarship, Indiana University Bloomington (2018 - 2019) </small>
-* <small>IUB SICE Ph.D. Travel Award (2015 - 2019)</small>
-* <small>NetSci Student Travel Award (2017) </small>
-* <small>IUB GPSG Travel Award (2017) </small>
