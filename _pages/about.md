@@ -12,9 +12,6 @@ redirect_from:
 .page__content p {
     margin: 0 0 0em;
 }
-p, ul li, ol li {
-    font-size: 0.25em;
-}
 p{
     /*margin: 0;*/
     /*padding: -30;*/
@@ -29,6 +26,9 @@ ul{
     line-height: 15px;
     margin-block-start: 0em;
     margin-block-end: 0em;
+}
+ul li, ol li {
+    font-size: 0.25em;
 }
 ul li, ol li {
     	margin-bottom: 0.em;
