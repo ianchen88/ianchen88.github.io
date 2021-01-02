@@ -4,7 +4,9 @@ main:
     url: /#biography
   - title: "Education"
     url: /#education
-    - title: "Research"
+  - title: "Experience"
+    url: /#experience
+  - title: "Research"
     url: /#research
   - title: "Publication"
     url: /#publication
