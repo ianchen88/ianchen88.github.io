@@ -56,6 +56,12 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Research assistant, CNSG@Arizona State University, Tempe (08/2013 - 12/2018)</small>
 * <small>Research assistant, Chinese University of Hong Kong, Hong Kong (08/2010 - 04/2013)</small>
 
+<h2 id="research">Research Interests</h2> 
+<small>My primary research interests encompass security and privacy in machine/meta learning and networked systems. Currently I am working on</small>
+* <small>private learning in deep/meta learning,</small> 
+* <small>adversarial machine learning, and</small>  
+* <small>anomaly detection for edge/mobile computing and IoT.</small?
+
 <h2 id="publication">Selected Publications</h2> 
 <h3>Conference Proceedings</h3>
 1. <small>Ning Wang, **Yimin Chen**, Yang Hu, Wenjing Lou, and Y. Thomas Hou. MANDA: On Adversarial Example Detection for Network Intrusion Detection System.  IEEE Conference on Computer Communications (INFOCOM), Virtual Conference, May 2021.</small>
