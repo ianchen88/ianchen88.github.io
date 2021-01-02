@@ -12,8 +12,8 @@ redirect_from:
 .page__content p {
     margin: 0 0 0em;
 }
-p, li {
-    font-size: 0.333em;
+p, ul li, ol li {
+    font-size: 0.25em;
 }
 p{
     /*margin: 0;*/
@@ -41,8 +41,8 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 {% include base_path %} 
 I am an experienced researcher passionate about pushing the boundaries of knowledge in machine/meta learning and networked systems. Here is my full **[CV](/files/CV_IanChen.pdf)**.
-<h2 id="biography"> Biography</h2>  
 
+<h2 id="biography"> Biography</h2>  
 I am currently a postdoctoral associate in the Department of Computer Science at Virginia Tech, and I am seeking new opportunities to further my career in academia. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Department of Electrical Engineering at Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems.
 
 <h2 id="education"> Education</h2>  
