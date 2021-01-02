@@ -12,6 +12,9 @@ redirect_from:
 .page__content p {
     margin: 0 0 0em;
 }
+p, li {
+    font-size: 0.5em;
+}
 p{
     /*margin: 0;*/
     /*padding: -30;*/
@@ -29,7 +32,6 @@ ul{
 }
 ul li, ol li {
     	margin-bottom: 0.em;
-	font-size: small;
 }
 h1, h2, h3, h4, h5, h6 {
 	padding-bottom: 0.2em;
