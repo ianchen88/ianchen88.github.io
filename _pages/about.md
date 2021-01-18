@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 <small>I am an experienced researcher passionate about pushing the boundaries of knowledge in security an privacy, particularly related to machine/meta learning and networked systems. Here is my full **[CV](/files/CV_IanChen.pdf)**.</small>
 
 <h2 id="biography"> Biography</h2>  
-<small>I am currently a postdoctoral associate in the Department of Computer Science at Virginia Tech, and I am seeking new opportunities to further my career in academia. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Department of Electrical Engineering at The Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems.</small>
+<small>I am currently a postdoctoral associate in the Dept. of Computer Science at Virginia Tech, and I am seeking new opportunities to further my career in academia. My supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Dept. of Electrical Engineering at The Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems.</small>
 
 <h2 id="education"> Education</h2>  
 * <small>**Ph.D.** in Electrical Engineering, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/)<br>
@@ -53,10 +53,10 @@ h1, h2, h3, h4, h5, h6 {
     Peking University, Beijing (2006 - 2010)</small> 
 
 <h2 id="experience">Professional Experience</h2> 
-* <small>Postdoctoral associate in the CNSR Lab, Department of Computer Science, Virginia Tech (12/2019 - Present)</small> 
+* <small>Postdoctoral associate in the Complex Networks and Security Research (CNSR) Lab, Dept. of Computer Science, Virginia Tech (12/2019 - Present)</small> 
 * <small>Research engineer in the AI Security Lab, Tencent (12/2018 - 11/2019)</small>  
-* <small>Research assistant in the CNSG Lab, School of Electrical, Computer, and Energy Engineering, Arizona State University (08/2013 - 12/2018)</small>
-* <small>Research assistant in the Photonics Lab, Department of Electrical Engineering, The Chinese University of Hong Kong (08/2010 - 04/2013)</small>
+* <small>Research assistant in the Cyber & Network Security Group (CNSG) Lab, School of Electrical, Computer, and Energy Engineering, Arizona State University (08/2013 - 12/2018)</small>
+* <small>Research assistant in the Photonics Lab, Dept. of Electrical Engineering, The Chinese University of Hong Kong (08/2010 - 04/2013)</small>
 
 <h2 id="research">Research Interests</h2> 
 <small>My primary research interests encompass security and privacy in machine/meta learning and networked systems. Currently I am working on</small>
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Graduate Student Travel Fund of Dean's Office, School of Electrical, Computer, and Energy Engineering, Arizona State University, Tempe (2018) </small>
 * <small>IEEE INFOCOM Student Travel Grant (2017) </small>
 * <small>IEEE INFOCOM Student Travel Grant (2015) </small>
-* <small>Tutor Commendation Award, Department of Electrical Engineering, The Chinese University of Hong Kong (2011)</small>
+* <small>Tutor Commendation Award, Dept. of Electrical Engineering, The Chinese University of Hong Kong (2011)</small>
 * <small>Lee Wai Wing Scholarship for Outstanding Undergraduate Student, Peking University (2009)</small>
 
 <h2 id="service">Professional Services</h2>  
