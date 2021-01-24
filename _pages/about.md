@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Postdoctoral associate in the Complex Networks and Security Research (CNSR) Lab, Dept. of Computer Science, Virginia Tech (12/2019 - Present)</small> 
 * <small>Research engineer in the AI Security Lab, Tencent (12/2018 - 11/2019)</small>  
 * <small>Research assistant in the Cyber & Network Security Group (CNSG) Lab, School of Electrical, Computer, and Energy Engineering, Arizona State University (08/2013 - 12/2018)</small>
-* <small>Research assistant in the Photonics Lab, Dept. of Electrical Engineering, The Chinese University of Hong Kong (08/2010 - 04/2013)</small>
+* <small>Research & teaching assistant in the Dept. of Electrical Engineering, The Chinese University of Hong Kong (08/2010 - 04/2013)</small>
 
 <h2 id="research">Research Interests</h2> 
 <small>My primary research interests encompass security and privacy in machine/meta learning and networked systems. Currently I am working on</small>
