@@ -37,9 +37,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-<span style="color:red">cardinals</span>
-<small>I have two openings for PhD students in Computer Science Department at UMass Lowell (UML). Send me an email if you are interested in working on security and privacy research of AI/ML and networked systems at UML!</small>
-<small>I am an experienced researcher passionate about pushing the boundaries of knowledge in security an privacy, particularly related to machine/meta learning and networked systems. Here is my full **[CV](/files/IanChen_CV.pdf)**.</small>
+<span style="color:blue">I have two openings for PhD students in Computer Science Department at UMass Lowell (UML). Send me an email if you are interested in working on security and privacy research of AI/ML and networked systems at UML!</span>
+
+<small>I am an experienced researcher passionate about pushing the boundaries of knowledge in security and privacy, particularly related to machine/meta learning and networked systems. Here is my full **[CV](/files/IanChen_CV.pdf)**.</small>
 
 <h2 id="biography"> Biography</h2>  
 <small>I am currently a research scholar and will be a tenure-track assistant professor in the Dept. of Computer Science at Univeristy of Massachusetts Lowell (UML). Before joining UML, I was a postdoctoral associate in the Dept. of Computer Science at Virginia Tech, and my supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Dept. of Electrical Engineering at The Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems.</small>
