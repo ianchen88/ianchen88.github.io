@@ -84,8 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>Leon Zeng and **Yimin Chen**. Applying behavioral finance to influence consumer decision-making and behavior via human-automation interaction. Human-automation interaction: Manufacturing, services and UX, Springer Nature, Switzerland, AG. In press.</small>
 
 <h2 id="teaching"> Teaching Experience</h2> 
-* <small>Teaching assistant for "ENGG 1100: Introduction to engineering design I", The Chinese University of Hong Kong (Fall 2010, Fall 2011) </small>
-* <small>Teaching assistant for "ENGG 2420: Complex analysis and differential equations for engineers", The Chinese University of Hong Kong (Spring 2011, Spring 2012) </small>
+* <small>"COMP 2300: Introduction to Computer Security", UMass Lowell, Fall 2021 </small>
 
 <h2 id="award"> Awards and Recognitions</h2> 
 * <small>Graduate Student Travel Fund of Dean's Office, School of Electrical, Computer, and Energy Engineering, Arizona State University, Tempe (2018) </small>
