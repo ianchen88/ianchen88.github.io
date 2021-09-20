@@ -37,6 +37,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
+<span style="color:red">cardinals</span>
+<small>I have two openings for PhD students in Computer Science Department at UMass Lowell (UML). Send me an email if you are interested in working on security and privacy research of AI/ML and networked systems at UML!</small>
 <small>I am an experienced researcher passionate about pushing the boundaries of knowledge in security an privacy, particularly related to machine/meta learning and networked systems. Here is my full **[CV](/files/IanChen_CV.pdf)**.</small>
 
 <h2 id="biography"> Biography</h2>  
