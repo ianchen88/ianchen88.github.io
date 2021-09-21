@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-<span style="color:blue">I have two openings for PhD students in Computer Science Department at UMass Lowell (UML). Send me an email if you are interested in working on security and privacy research of AI/ML and networked systems at UML!</span>
+<span style="color:blue">I have two openings for PhD students in Computer Science Department at UMass Lowell (UML). Feel free to send me an email if you are interested in working on security and privacy research of AI/ML and networked systems at UML!</span>
 
 <small>I am an experienced researcher passionate about pushing the boundaries of knowledge in security and privacy, particularly related to machine/meta learning and networked systems. Here is my full **[CV](/files/IanChen_CV.pdf)**.</small>
 
@@ -87,6 +87,9 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="teaching"> Teaching Experience</h2> 
 * <small>"COMP 2300: Introduction to Computer Security", UMass Lowell, Fall 2021 </small>
+
+<h2 id="collaboration"> Collaboration</h2> 
+* <small>Currently, I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://www.uml.edu/Sciences/computer-science/faculty/Alam-Mohammad-Arif-Ul.aspx) at UML, [Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at VT. </small>
 
 <h2 id="award"> Awards and Recognitions</h2> 
 * <small>Graduate Student Travel Fund of Dean's Office, School of Electrical, Computer, and Energy Engineering, Arizona State University, Tempe (2018) </small>
