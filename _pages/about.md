@@ -63,8 +63,8 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="research">Research Interests</h2> 
 <small>My primary research interests encompass security and privacy in machine/meta learning and networked systems. Currently I am working on</small>
-* <small>Private learning in deep/meta learning</small>
-* <small>Adversarial machine learning</small>  
+* <small>Private learning in deep/meta learning, adversarial machine learning</small>
+* <small>IoT/Mobile security and privacy</small>  
 * <small>Anomaly detection for edge/mobile computing and IoT</small>
 
 <h2 id="publication">Selected Publications</h2> 
