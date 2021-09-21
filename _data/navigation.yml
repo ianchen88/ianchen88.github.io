@@ -10,6 +10,8 @@ main:
     url: /#research
   - title: "Publication"
     url: /#publication
+  - title: "Collaboration"
+    url: /#collaboration
   - title: "Teaching"
     url: /#teaching
   - title: "Awards"
