@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>"COMP 2300: Introduction to Computer Security", UMass Lowell, Fall 2021 </small>
 
 <h2 id="collaboration"> Collaboration</h2> 
-* <small>Currently, I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://www.uml.edu/Sciences/computer-science/faculty/Alam-Mohammad-Arif-Ul.aspx) at UML, [Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at VT. </small>
+* <small>Currently, I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://www.uml.edu/Sciences/computer-science/faculty/Alam-Mohammad-Arif-Ul.aspx) at UML, [Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at Virginia Tech. </small>
 
 <h2 id="award"> Awards and Recognitions</h2> 
 * <small>Graduate Student Travel Fund of Dean's Office, School of Electrical, Computer, and Energy Engineering, Arizona State University, Tempe (2018) </small>
