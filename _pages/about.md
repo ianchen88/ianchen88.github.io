@@ -85,7 +85,10 @@ h1, h2, h3, h4, h5, h6 {
 <h3>Book Chapter</h3>
 * <small>Leon Zeng and **Yimin Chen**. Applying behavioral finance to influence consumer decision-making and behavior via human-automation interaction. Human-automation interaction: Manufacturing, services and UX, Springer Nature, Switzerland, AG. In press.</small>
 
-<h2 id="teaching"> Teaching Experience</h2> 
+<h2 id="collaboration"> Collaboration</h2> 
+<small>Currently, I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://faculty.uml.edu/~alam/) at UML, [Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at Virginia Tech. </small>
+
+<h2 id="teaching">Teaching Experience</h2> 
 * <small>"COMP 2300: Introduction to Computer Security", UMass Lowell, Fall 2021 </small>
 
 <h2 id="award"> Awards and Recognitions</h2> 
