@@ -45,21 +45,16 @@ h1, h2, h3, h4, h5, h6 {
 <small>I am currently a research scholar and will be a tenure-track assistant professor in the Dept. of Computer Science at Univeristy of Massachusetts Lowell (UML). Before joining UML, I was a postdoctoral associate in the Dept. of Computer Science at Virginia Tech, and my supervisor is [Dr. Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). I obtained my Ph.D. in Electrical Engineering from Arizona State University, Tempe in 2018, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/). My dissertation focused on security and privacy in mobile computing. Before that, I received my B.S. from the School of Electronics Engineering and Computer Science at Peking University in 2010 and my M.Phil. from the Dept. of Electrical Engineering at The Chinese University of Hong Kong in 2013. My current research interests encompass security and privacy in machine/meta learning and networked systems.</small>
 
 <h2 id="education"> Education</h2>  
-* <small>**Ph.D.** in Electrical Engineering, advised by [Dr. Yanchao Zhang](http://cnsg.asu.edu/zhang/)<br>
-    Dissertation: Security and privacy in mobile devices: Novel attacks and countermeasures<br>
-    Arizona State University, Tempe, AZ (2013 - 2018)</small> 
-* <small>**M.Phil.** in Electrical Engineering, advised by [Dr. Hon Ki Tsang](https://www.ee.cuhk.edu.hk/~hktsang/) <br>
-    Thesis: Design and evaluation of high speed silicon waveguide<br>
-    The Chinese University of Hong Kong, Hong Kong (2010 - 2013)</small>  
-* <small>**B.S.** in Electronics and Infomation Science and Technology<br>
-    Peking University, Beijing (2006 - 2010)</small> 
+* <small>**Ph.D.** in Electrical Engineering, Arizona State University, Tempe, AZ (2013 - 2018)</small> 
+* <small>**M.Phil.** in Electrical Engineering, The Chinese University of Hong Kong, Hong Kong (2010 - 2013)</small>  
+* <small>**B.S.** in Electronics and Infomation Science and Technology, Peking University, Beijing (2006 - 2010)</small> 
 
 <h2 id="experience">Professional Experience</h2> 
 * <small>Research scholar and an incoming tenure-track assistant professor in the Dept. of Computer Science, UML (09/2021 - Present)</small> 
-* <small>Postdoctoral associate in the Complex Networks and Security Research (CNSR) Lab, Dept. of Computer Science, Virginia Tech (12/2019 - Present)</small> 
-* <small>Research engineer in the AI Security Lab, Tencent (12/2018 - 11/2019)</small>  
-* <small>Research assistant in the Cyber & Network Security Group (CNSG) Lab, School of Electrical, Computer, and Energy Engineering, Arizona State University (08/2013 - 12/2018)</small>
-* <small>Research & teaching assistant in the Dept. of Electrical Engineering, The Chinese University of Hong Kong (08/2010 - 04/2013)</small>
+* <small>Postdoctoral associate, Dept. of Computer Science, Virginia Tech (12/2019 - Present)</small> 
+* <small>Research engineer, Tencent (12/2018 - 11/2019)</small>  
+* <small>Research assistant, School of Electrical, Computer, and Energy Engineering, ASU (08/2013 - 12/2018)</small>
+* <small>Research & teaching assistant, Dept. of Electrical Engineering, CUHK (08/2010 - 04/2013)</small>
 
 <h2 id="research">Research Interests</h2> 
 <small>My primary research interests encompass security and privacy in machine/meta learning and networked systems. Currently I am working on</small>
