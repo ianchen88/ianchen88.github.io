@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="experience">Professional Experience</h2> 
 * <small>Research scholar and an incoming tenure-track assistant professor in the Dept. of Computer Science, UML (09/2021 - Present)</small> 
-* <small>Postdoctoral associate, Dept. of Computer Science, Virginia Tech (12/2019 - Present)</small> 
+* <small>Postdoctoral associate, Dept. of Computer Science, Virginia Tech (12/2019 - 08/2021)</small> 
 * <small>Research engineer, Tencent (12/2018 - 11/2019)</small>  
 * <small>Research assistant, School of Electrical, Computer, and Energy Engineering, ASU (08/2013 - 12/2018)</small>
 * <small>Research & teaching assistant, Dept. of Electrical Engineering, CUHK (08/2010 - 04/2013)</small>
