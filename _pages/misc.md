@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 Professional Services
 ======
-*NSF Panelist 2022
-*Program Committee Member:
+* NSF Panelist 2022
+* Program Committee Member:
   * ACM WiSec 2020
   
-*Conference Reviewer:
+* Conference Reviewer:
   * IEEE INFOCOM 2022 
   * ACM WiSec 2020 
   * IEEE CHASE 2016 
@@ -22,7 +22,7 @@ Professional Services
   * ACM AsiaCCS 2015 
   * IEEE INFOCOM 2015 
 
-*Journal Reviewer:
+* Journal Reviewer:
   * IEEE/ACM Transactions on Network (ToN)
   * IEEE Transactions on Mobile Computing (TMC)
   * IEEE Internet of Things
