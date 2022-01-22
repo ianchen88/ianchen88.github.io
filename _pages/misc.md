@@ -10,12 +10,11 @@ redirect_from:
 {% include base_path %}
 Professional Services
 ======
-
-<h2 id="service">Professional Services</h2>  
-*Program Committee Member:*
+*NSF Panelist 2022
+*Program Committee Member:
   * ACM WiSec 2020
   
-*Conference Reviewer:*  
+*Conference Reviewer:
   * IEEE INFOCOM 2022 
   * ACM WiSec 2020 
   * IEEE CHASE 2016 
@@ -23,43 +22,9 @@ Professional Services
   * ACM AsiaCCS 2015 
   * IEEE INFOCOM 2015 
 
-*Journal Reviewer:** 
+*Journal Reviewer:
   * IEEE/ACM Transactions on Network (ToN)
   * IEEE Transactions on Mobile Computing (TMC)
   * IEEE Internet of Things
   * IEEE Transactions on Vehicular Technology (TVT)
   * IEEE Access
-
-<!-- Personal
-======
-* I grew up in Zibo, Shandong. At the age of 15, I moved to Shanghai, in which I live for 8 years. During my undergrad, I spent 2 months in Dublin (University College Dublin), 4 months in Taiwan (National Tsing Hua University), and 2 months in Hong Kong (the University of Hong Kong).
-
-Interest
-======
-* Watching youtube videos, e.g., movie recaps, gaming videos (of Warcraft 3, to help me sleep) , vlogs, etc.
-* Playing sports: I like to participate in fun activities.
-  - Enjoy: basketball>hiking>badminton
-  - Do not like: table tennis, workout, running, swimming (I feel boring and painful)
-* Cooking
-
-
-Others
-======
-* Erdos Number 3: Rudolf Fleischer - Noga Alon - Paul Erdös
-
-
-<!-- 
-
-* I like practical optimization: one is to optimize my daily routines/activities; the other is online optimization (e.g., choosing what to cook and what to buy).
-* I prefer to finish trivial things first (e.g., I finished this website).
-
-Writing
-======
-Resources I like on writing:
-* 
-
-Graduate Research
-======
-Resources I like on doing research:
-*  
---> -->
