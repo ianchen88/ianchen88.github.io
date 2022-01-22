@@ -1,12 +1,15 @@
 ---
 permalink: /research/
-title: ""
+title: "Research"
 excerpt: "Research"
 author_profile: true
 redirect_from: 
   - /research.html
 ---
-<style>
+
+{% include base_path %}
+
+<!-- <style>
 .page__content p {
     margin: 0 0 0em;
 }
@@ -32,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding-bottom: 0.2em;
 	margin: 1em 0 0.5em;
 	border-bottom: 2px solid #f2f3f3;
-}
+} -->
 
 <small>My primary research interests encompass security and privacy with current applications in machine learning (ML) and IoT systems. Currently I'm working on the following projects. Feel free to drop by or send me emails if you're interested in them. More details can be find in our publications.</small>
 * <small>Detecing poisoning attacks on ML models. We mainly focus on the statistic difference of poisoning samples/models.</small>
