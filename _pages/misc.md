@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+Awards and Recognitions
+======
+* Graduate Student Travel Fund of Dean's Office, ASU (2018) 
+* IEEE INFOCOM Student Travel Grant (2017) 
+* IEEE INFOCOM Student Travel Grant (2015) 
+* Tutor Commendation Award, CUHK (2011)
+* Lee Wai Wing Scholarship for Outstanding Undergraduate Student, Peking University (2009)
+
 Professional Services
 ======
 * NSF Panelist 2022
