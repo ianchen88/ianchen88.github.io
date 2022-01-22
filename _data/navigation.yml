@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "CS Colloquium"
+    url: /cscolloquium/
   - title: "Misc"
     url: /misc/
     
