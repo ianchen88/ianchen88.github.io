@@ -1,5 +1,5 @@
 ---
-permalink: //
+permalink: /cscolloquium/
 title: "CS Colloquium"
 excerpt: "CS Colloquium"
 author_profile: true
