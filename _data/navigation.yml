@@ -1,28 +1,34 @@
 # main links links
 main:
-  - title: "Selected_Pub"
-    url: /publications/
-    
-  - title: "Biography"
-    url: /#biography
-  - title: "Education"
-    url: /#education
-  - title: "Experience"
-    url: /#experience
   - title: "Research"
-    url: /#research
-  - title: "Publication"
-    url: /#publication
-  - title: "Collaboration"
-    url: /#collaboration
+    url: /research
+  - title: "Publications"
+    url: /publications/
   - title: "Teaching"
-    url: /#teaching
-  - title: "Awards"
-    url: /#award
-  - title: "Service"
-    url: /#service
-  - title: "CV"
-    url: /files/IanChen_CV.pdf 
+    url: /teaching
+  - title: "Misc"
+    url: /misc
+    
+#   - title: "Biography"
+#     url: /#biography
+#   - title: "Education"
+#     url: /#education
+#   - title: "Experience"
+#     url: /#experience
+#   - title: "Research"
+#     url: /#research
+#   - title: "Publication"
+#     url: /#publication
+#   - title: "Collaboration"
+#     url: /#collaboration
+#   - title: "Teaching"
+#     url: /#teaching
+#   - title: "Awards"
+#     url: /#award
+#   - title: "Service"
+#     url: /#service
+#   - title: "CV"
+#     url: /files/IanChen_CV.pdf 
     
 #   - title: "Guide"
 #     url: /markdown/
