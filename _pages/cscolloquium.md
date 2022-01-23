@@ -14,7 +14,7 @@ Upcoming talks
 Previous talks
 ---
 
-| <img src="/images/cstalks/Dr. Wai.jpg" width="150" height="100" />      | [Dr. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/), The Chinese University of Hong Kong, Hong Kong <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 09:30 AM – 10:30 AM ET, Dec. 10 <br /> Location: Zoom |
+| <img src="/images/cstalks/Dr. Wai.jpg" width="150" />      | [Dr. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/), The Chinese University of Hong Kong, Hong Kong <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 09:30 AM – 10:30 AM ET, Dec. 10 <br /> Location: Zoom |
 
 <small>**Title:** Low Pass Graph Signal Processing - Applications and Beyond</small>  
 <small>**Abstract**</small>  
@@ -22,7 +22,7 @@ Previous talks
 <small>**Speaker**</small>  
 <small>Hoi-To Wai received his B.Eng. degree and his M.Phil. degree in electronic engineering from the Chinese University of Hong Kong (CUHK) and his Ph.D. degree in electrical engineering from Arizona State University (ASU), Tempe. He is an assistant professor in the Department of Systems Engineering and Engineering Management, CUHK, and previously held research positions at ASU; UC Davis; Telecom ParisTech; Ecole Polytechnique; and MIT. His research interests include signal processing, machine learning, and distributed optimization. His papers are mainly published on prestigious conferences such as COLT, NeurIPS, ICASSP, AAAI, ACC. His dissertation received the Dean’s Dissertation Award from ASU, and he received a Best Student Paper Award at the IEEE ICASSP.</small>  
 
-| <img src="/images/profile.png" width="150" height="100" />      | Dr. Stanley J. Barr, The MITRE Corporation <br> Host: Dr. Ian Chen, UMASS, Lowell <br> Time: 1:30 PM – 2:30 PM ET, Nov. 19<br> Location: Zoom |
+| <img src="/images/profile.png" width="150" />      | Dr. Stanley J. Barr, The MITRE Corporation <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 1:30 PM – 2:30 PM ET, Nov. 19<br /> Location: Zoom |
 
 <small>**Title:** Highlights from MITRE’s work in cyber deception</small>  
 <small>**Abstract**</small>  
