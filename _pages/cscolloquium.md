@@ -6,11 +6,10 @@ author_profile: true
 redirect_from: 
   - /cscolloquium.html
 ---
+Our [upcoming](/upcoming/) and [previous](/previous) CS talks are as follows.
 
 {% include base_path %}
-Upcoming talks
----
-
+<h2 id="uncoming"> Upcoming talks</h2> 
 | <img src="/images/cstalks/ziming.jpeg" width="150" />      | [Dr. Ziming Zhao](https://zzm7000.github.io/), [CactiLab](https://cactilab.github.io/), University at Buffalo. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, Feb. 11 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** Rethinking Trusted Execution Environments for Embedded and IoT Systems</small>  
@@ -19,9 +18,9 @@ Upcoming talks
 <small>It is thus imperative to rethink the design of embedded and IoT TEEs and combine existing TEEs with overlooked hardware features, such as Debug Unit (DU), for effective and efficient software attack prevention, detection and response. In this talk, I will first discuss our on-going project BYOTee, an infrastructure for building multiple customized and physically isolated TEEs with a configurable and minimal hardware and software TCB on commodity SoC FPGA devices. The customized TEEs can securely execute security-sensitive code inside them. I will also discuss our on-going project TeeCFIA, an efficient forward and backward edge CFI enforcement and attestation infrastructure with the Cortex-M TrustZone. TeeCFIA minimizes the number of context switches by utilizing debug units for tracing. TeeCFIA does not rely on instrumentation and can work on privileged programs, such as bare-metal firmware and RTOS.</small>  
 <small>**Speaker**</small>  
 <small>Ziming Zhao is an Assistant Professor at the Department of Computer Science and Engineering (CSE) and the director of the CyberspACe securiTy and forensIcs lab (CactiLab; https://cactilab.github.io/), University at Buffalo. His current research interests include system and software security, trusted execution environment, formal methods for security, and usable security. His research has been supported by the U.S. National Science Foundation, the U.S. Department of Defense, and the U.S. Air Force Office of Scientific Research. He is a recipient of the NSF CRII Award. His research outcomes have appeared in IEEE S&P, USENIX Security, ACM CCS, NDSS, ACM TISSEC, IEEE TDSC, IEEE TIFS, etc. He is also a recipient of best paper awards from USENIX Security 2019 and ACM CODASPY 2014. He received the Ph.D. degree in Computer Science from Arizona State University, Tempe, AZ, in 2014.</small>  
-Previous talks
----
 
+
+<h2 id="previous"> Previous talks</h2> 
 | <img src="/images/cstalks/Dr. Wai.jpg" width="150" />      | [Dr. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/), The Chinese University of Hong Kong, Hong Kong <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 09:30 AM – 10:30 AM ET, Dec. 10 <br /> Location: Zoom |
 
 <small>**Title:** Low Pass Graph Signal Processing - Applications and Beyond</small>  
