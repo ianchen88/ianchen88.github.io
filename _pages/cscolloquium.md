@@ -6,10 +6,11 @@ author_profile: true
 redirect_from: 
   - /cscolloquium.html
 ---
-Our [upcoming](/upcoming/) and [previous](/previous) CS talks are as follows.
+Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS talks are as follows.
 
 {% include base_path %}
 <h2 id="uncoming"> Upcoming talks</h2> 
+
 | <img src="/images/cstalks/ziming.jpeg" width="150" />      | [Dr. Ziming Zhao](https://zzm7000.github.io/), [CactiLab](https://cactilab.github.io/), University at Buffalo. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, Feb. 11 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** Rethinking Trusted Execution Environments for Embedded and IoT Systems</small>  
@@ -21,6 +22,7 @@ Our [upcoming](/upcoming/) and [previous](/previous) CS talks are as follows.
 
 
 <h2 id="previous"> Previous talks</h2> 
+
 | <img src="/images/cstalks/Dr. Wai.jpg" width="150" />      | [Dr. Hoi-To Wai](https://www1.se.cuhk.edu.hk/~htwai/), The Chinese University of Hong Kong, Hong Kong <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 09:30 AM – 10:30 AM ET, Dec. 10 <br /> Location: Zoom |
 
 <small>**Title:** Low Pass Graph Signal Processing - Applications and Beyond</small>  
