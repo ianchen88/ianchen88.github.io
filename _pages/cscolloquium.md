@@ -19,6 +19,12 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Speaker**</small>  
 <small>Yidan Hu is an Assistant Professor in the Department of Computing Security at Rochester Institute of Technology (RIT). She received her B.E. and M.E. degrees in Computer Science from Hangzhou Dianzi University in 2013 and 2016, respectively, and Ph.D. degree in Computer Science from the University of Delaware in 2021. Her research interests are security and privacy issues in networked and distributed systems with the current focuses on cognitive radio networks, mobile crowdsourcing, cloud computing, mobile computing, and private data analysis. She has published her research in various prestigious venues, including IEEE/ACM Transactions on Networking, IEEE INFOCOM, and IEEE ICNP, and won the Best Paper Runner-up at IEEE/ACM IWQoS 2019.</small>  
 
+| <img src="/images/profile.png" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+
+<small>**Title:** TBD</small>  
+<small>**Abstract**</small>  
+<small>TBD</small>  
+
 | <img src="/images/cstalks/ziming.jpeg" width="150" />      | [Dr. Ziming Zhao](https://zzm7000.github.io/), [CactiLab](https://cactilab.github.io/), University at Buffalo. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, Feb. 11 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** Rethinking Trusted Execution Environments for Embedded and IoT Systems</small>  
