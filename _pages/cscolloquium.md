@@ -25,6 +25,12 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Abstract**</small>  
 <small>TBD</small>  
 
+| <img src="/images/profile.png" width="150" />     | [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/), Oregon State University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, Feb 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+
+<small>**Title:** TBD.</small>  
+<small>**Abstract**</small>  
+<small>TBD.Statistical machine learning</small>  
+
 | <img src="/images/cstalks/ziming.jpeg" width="150" />      | [Dr. Ziming Zhao](https://zzm7000.github.io/), [CactiLab](https://cactilab.github.io/), University at Buffalo. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, Feb. 11 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** Rethinking Trusted Execution Environments for Embedded and IoT Systems</small>  
