@@ -7,17 +7,33 @@ redirect_from:
   - /cscolloquium.html
 ---
 Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS talks are as follows.
+Speaker	Affiliation	Date	Time (ET)
+| Speaker | Affiliation | Date | Time (ET) |
+| --- | ----------- | --- | ----------- |
+| Stanley J. Barr | MITRE | Nov. 19, 2021 | 1:30 – 2:30 PM|
+| Hoi-To Wai | CUHK | Dec. 10, 2021 | 9:30 – 10:30 AM|
+| Ziming Zhao | SUNY | Feb. 11, 2022 | 3:30 – 4:30 PM|
+| Xiao Fu | OSU | Feb. 18, 2022 | 1:30 – 2:30 PM|
+| Ping Wang | Stevens | Apr. 1, 2022 | 3:30 – 4:30 PM|
+| Jesse Hamilton | UMich | Apr. 15, 2022 | 3:30 – 4:30 PM|
+| Yidan Hu | RIT | Apr. 29, 2022 | 3:30 – 4:30 PM|
 
 {% include base_path %}
 <h2 id="uncoming"> Upcoming talks</h2> 
 
-| <img src="/images/cstalks/Dr. Hu.jpg" width="150" />      | [Dr. Yidan Hu](http://yidanhu.csec.rit.edu/), Rochester Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, April 25 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/cstalks/Dr. Hu.jpg" width="150" />      | [Dr. Yidan Hu](http://yidanhu.csec.rit.edu/), Rochester Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, April 29 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** Secure Database-Driven Dynamic Spectrum Sharing</small>  
 <small>**Abstract**</small>  
 <small>Database-driven Dynamic Spectrum Sharing (DSS) is the de facto technical paradigm approved by Federal Communications Commission (FCC) for increasing wireless spectrum access by allowing unlicensed wireless devices (secondary users) with cognitive radio capabilities to have more flexible and efficient access to the radio spectrum without causing interference to licensed wireless devices (primary users). In a database-driven DSS system, a geo-location database administrator (DBA) manages secondary users' spectrum access based on the real-time spectrum availability in its service region. An effective approach to improve the spectrum-estimation accuracy in database-driven DSS systems is for the DBA to deploy a small number of dedicated spectrum sensors at strategic locations and outsources the majority of spectrum-sensing tasks to ubiquitous mobile users whereby to construct and maintain a Radio Environmental Map (REM) from periodically collected spectrum measurements. The feasibility of this approach is deeply rooted in the explosive growth in mobile devices with increasing capabilities in sensing, computation, communication, and localization. Security and privacy concerns are among the most challenging obstacles to the wide deployment of database-driven DSS systems armed with spectrum-sensing outsourcing. In this talk, I will present two case studies about the security and privacy challenges in database-driven DSS systems. Specifically, I will introduce a novel spatiotemporal approach to allow the DBA to construct an accurate REM in the presence of false spectrum measurements. Then I will present a novel private-preserving reverse auction mechanism to stimulate mobile users’ participation in crowdsourced spectrum sensing while ensuring high REM accuracy, approximate truthfulness, and differential bid privacy.</small>  
 <small>**Speaker**</small>  
 <small>Yidan Hu is an Assistant Professor in the Department of Computing Security at Rochester Institute of Technology (RIT). She received her B.E. and M.E. degrees in Computer Science from Hangzhou Dianzi University in 2013 and 2016, respectively, and Ph.D. degree in Computer Science from the University of Delaware in 2021. Her research interests are security and privacy issues in networked and distributed systems with the current focuses on cognitive radio networks, mobile crowdsourcing, cloud computing, mobile computing, and private data analysis. She has published her research in various prestigious venues, including IEEE/ACM Transactions on Networking, IEEE INFOCOM, and IEEE ICNP, and won the Best Paper Runner-up at IEEE/ACM IWQoS 2019.</small>  
+
+| <img src="/images/profile.png" width="150" />     | [Dr. Jesse Hamilton](https://medicine.umich.edu/dept/radiology/jesse-hamilton-phd), University of Michigan. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 15 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+
+<small>**Title:** TBD.</small>  
+<small>**Abstract**</small>  
+<small>TBD. MRI and physics-driven deep learning</small>
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
@@ -29,7 +45,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 
 <small>**Title:** TBD.</small>  
 <small>**Abstract**</small>  
-<small>TBD.Statistical machine learning</small>  
+<small>TBD. Statistical machine learning</small>  
 
 | <img src="/images/cstalks/ziming.jpeg" width="150" />      | [Dr. Ziming Zhao](https://zzm7000.github.io/), [CactiLab](https://cactilab.github.io/), University at Buffalo. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, Feb. 11 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
