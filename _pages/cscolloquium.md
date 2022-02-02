@@ -10,13 +10,13 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 
 | Speaker | Affiliation | Date | Time (ET) |
 | :---: | :---: | :---: | :---: |
-| Stanley J. Barr | MITRE | Nov. 19, 2021 | 1:30 – 2:30 PM|
-| Hoi-To Wai | CUHK | Dec. 10, 2021 | 9:30 – 10:30 AM|
-| Ziming Zhao | SUNY | Feb. 11, 2022 | 3:30 – 4:30 PM|
-| Xiao Fu | OSU | Feb. 18, 2022 | 1:30 – 2:30 PM|
-| Ping Wang | Stevens | Apr. 1, 2022 | 3:30 – 4:30 PM|
-| Jesse Hamilton | UMich | Apr. 15, 2022 | 3:30 – 4:30 PM|
-| Yidan Hu | RIT | Apr. 29, 2022 | 3:30 – 4:30 PM|
+| Stanley J. Barr | MITRE | Nov. 19, 2021 | 01:30 – 02:30 PM|
+| Hoi-To Wai | CUHK | Dec. 10, 2021 | 09:30 – 10:30 AM|
+| Ziming Zhao | SUNY | Feb. 11, 2022 | 03:30 – 04:30 PM|
+| Xiao Fu | OSU | Feb. 18, 2022 | 01:30 – 02:30 PM|
+| Ping Wang | Stevens | Apr. 1, 2022 | 03:30 – 04:30 PM|
+| Jesse Hamilton | UMich | Apr. 15, 2022 | 03:30 – 04:30 PM|
+| Yidan Hu | RIT | Apr. 29, 2022 | 03:30 – 04:30 PM|
 
 {% include base_path %}
 <h2 id="uncoming"> Upcoming talks</h2> 
