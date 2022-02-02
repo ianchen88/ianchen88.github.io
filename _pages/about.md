@@ -16,9 +16,7 @@ I am a research scholar and will be a TTAP at [CS@UMass Lowell](https://www.uml.
 <span style="color:blue">I have two PhD openings to work on ML and IoT Security and Privacy. Feel free to send me an email if you are interested in these exciting [projects](/research/) at UML! Refer to [this link](https://www.1point3acres.com/bbs/thread-799901-1-1.html) for more information.</span>
 
 <h2 id="News"> News</h2>
+* Our paper **MANDA: On Adversarial Example Detection for Network Intrusion Detection System** is accepted by IEEE TDSC. The idea is to detect adversarial example attacks by exploring the data space. (Feb. 2022)
 * Ian is to serve on NSF Panel. (2022)
-* Our paper **FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning** has been accepted by IEEE INFOCOM 2022 (Acceptance ratio: 225/1129=19.9%). The idea is to using contrastive learning to learn the representation of benign traffic. (Dec., 2021)
+* Our paper **FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning** has been accepted by IEEE INFOCOM 2022 (Acceptance ratio: 225/1129=19.9%). The idea is to use contrastive learning to learn the representation of benign traffic. (Dec. 2021)
 * Ian joined CS@UML as a TTAP. (Sep. 2021)
-
-<h2 id="collaboration"> Collaboration</h2> 
-I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://faculty.uml.edu/~alam/) at UML, [Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at Virginia Tech.
