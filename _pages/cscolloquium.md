@@ -9,7 +9,7 @@ redirect_from:
 Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS talks are as follows.
 
 | Speaker | Affiliation | Date | Time (ET) |
-| --- | ----------- | --- | ----------- |
+| :---: | :---: | :---: | :---: |
 | Stanley J. Barr | MITRE | Nov. 19, 2021 | 1:30 – 2:30 PM|
 | Hoi-To Wai | CUHK | Dec. 10, 2021 | 9:30 – 10:30 AM|
 | Ziming Zhao | SUNY | Feb. 11, 2022 | 3:30 – 4:30 PM|
