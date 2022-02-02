@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Research"
-excerpt: "Research"
+title: ""
+excerpt: "Research and Members"
 author_profile: true
 redirect_from: 
   - /research.html
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<h2> Research</h2> 
 Currently, I'm working on the following projects. Feel free to drop by or send me emails if you're interested in them. 
 * Detecting poisoning attacks on ML models. We mainly focus on the statistic difference of poisoning samples/models.
 * Security and privacy of federated learning (FL). Our interests in FL are that it is distributed and vulnerable to insider attacks. At the same time, FL is subject to performance and communication constrains. These make it challenging and important to work around both security and system design goals.  
@@ -18,3 +19,14 @@ Currently, I'm working on the following projects. Feel free to drop by or send m
 * Coining privacy-aware NLP models for medical EHR.
 * GNN-based causal inference for data stream applications such as prediction and recommendation.
 
+<h2>Members</h2>
+I'm very lucky to work with the following talented students. Join us if you have interests in our projects!
+* Master students
+  + Yang Hu (Adversarial example attacks, VT)
+  + Poornika Bonam (Private NLP, UML)
+* Undergrad students
+  + Jared Q Widberg (Reverse engineering, UML HONOR Thesis)
+  + Jacob N Gilk (Private learning, UML)
+
+<h2> Collaboration</h2> 
+I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://faculty.uml.edu/~alam/) at UML, [Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at Virginia Tech.
