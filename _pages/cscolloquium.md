@@ -7,7 +7,7 @@ redirect_from:
   - /cscolloquium.html
 ---
 Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS talks are as follows.
-Speaker	Affiliation	Date	Time (ET)
+
 | Speaker | Affiliation | Date | Time (ET) |
 | --- | ----------- | --- | ----------- |
 | Stanley J. Barr | MITRE | Nov. 19, 2021 | 1:30 – 2:30 PM|
