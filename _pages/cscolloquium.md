@@ -14,10 +14,11 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 | Hoi-To Wai | CUHK | Dec. 10, 2021 | 09:30 – 10:30 AM|
 | Ziming Zhao | SUNY | Feb. 11, 2022 | 03:30 – 04:30 PM|
 | Xiao Fu | OSU | Feb. 18, 2022 | 01:30 – 02:30 PM|
+| Sruti Bhagavatula | Northwestern | Mar. 4, 2022 | 03:30 – 04:30 PM|
 | Vijay Shah | GMU | Mar. 18, 2022 | 03:30 – 04:30 PM|
 | Ping Wang | Stevens | Apr. 1, 2022 | 03:30 – 04:30 PM|
 | Jesse Hamilton | UMich | Apr. 15, 2022 | 03:30 – 04:30 PM|
-| Yidan Hu | RIT | Apr. 29, 2022 | 03:30 – 04:30 PM|
+| Yidan Hu | RIT | Apr. 29, 2022 | 01:30 – 02:30 PM|
 
 {% include base_path %}
 <h2 id="uncoming"> Upcoming talks</h2> 
@@ -40,13 +41,19 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 
 <small>**Title:** TBD</small>  
 <small>**Abstract**</small>  
-<small>TBD</small>  
+<small>TBD</small> 
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** TBD</small>  
 <small>**Abstract**</small>  
-<small>Cybersecurity</small>  
+<small>Cybersecurity</small>   
+
+| <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 4 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+
+<small>**Title:** TBD</small>  
+<small>**Abstract**</small>  
+<small>Security</small>
 
 | <img src="/images/cstalks/xiao_fu.jpg" width="150" />     | [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/), Oregon State University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, Feb 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
