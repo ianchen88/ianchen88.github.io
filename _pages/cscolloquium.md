@@ -18,6 +18,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 | Vijay Shah | GMU | Mar. 18, 2022 | 03:30 – 04:30 PM|
 | Ping Wang | Stevens | Apr. 1, 2022 | 03:30 – 04:30 PM|
 | Jesse Hamilton | UMich | Apr. 15, 2022 | 03:30 – 04:30 PM|
+| Baopu Li | Baidu USA | Apr. 22, 2022 | 03:30 – 04:30 PM|
 | Yidan Hu | RIT | Apr. 29, 2022 | 01:30 – 02:30 PM|
 
 {% include base_path %}
@@ -36,6 +37,12 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Title:** TBD.</small>  
 <small>**Abstract**</small>  
 <small>TBD. MRI and physics-driven deep learning</small>
+
+| <img src="/images/profile.png" width="150" />     | [Dr. Baopu Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Baidu Research. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+
+<small>**Title:** TBD.</small>  
+<small>**Abstract**</small>  
+<small>NAS.</small>
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
