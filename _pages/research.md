@@ -22,8 +22,10 @@ Currently, I'm working on the following projects. Feel free to drop by or send m
 <h2>Members</h2>
 I'm very lucky to work with the following talented students. Join us if you have interests in our projects!
 * Master students
-  + Yang Hu (Adversarial example attacks, VT)
+  + Bibi Hajira Mahammada (GAN for wireless, UML)
   + Poornika Bonam (Private NLP, UML)
+  + Sohim Khokhar (Transfer learning, UML)
+  + Yang Hu (Adversarial example attacks, VT)
 * Undergrad students
   + Jared Q Widberg (Reverse engineering, UML HONOR Thesis)
   + Jacob N Gilk (Private learning, UML)
