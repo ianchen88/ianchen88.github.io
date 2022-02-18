@@ -50,7 +50,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Abstract**</small>  
 <small>TBD</small> 
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 4 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 25 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** TBD</small>  
 <small>**Abstract**</small>  
