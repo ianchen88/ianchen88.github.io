@@ -34,31 +34,31 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Jesse Hamilton](https://medicine.umich.edu/dept/radiology/jesse-hamilton-phd), University of Michigan. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 15 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
-<small>**Title:** TBD.</small>  
+<small>**Title:** MRI and physics-driven deep learning</small>  
 <small>**Abstract**</small>  
 <small>TBD. MRI and physics-driven deep learning</small>
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Baopu Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Baidu Research. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
-<small>**Title:** TBD.</small>  
+<small>**Title:** Neural Network Architecture Search (NAS)</small>  
 <small>**Abstract**</small>  
 <small>NAS.</small>
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
-<small>**Title:** TBD</small>  
+<small>**Title:** Natural Language Processing (NLP)</small>  
 <small>**Abstract**</small>  
-<small>TBD</small> 
+<small>NLP</small> 
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 25 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
-<small>**Title:** TBD</small>  
+<small>**Title:** Revisiting password strength and password rest</small>  
 <small>**Abstract**</small>  
 <small>Security</small>
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
-<small>**Title:** TBD</small>  
+<small>**Title:** Machine Learning in wireless networking</small>  
 <small>**Abstract**</small>  
 <small>Cybersecurity</small>   
 
