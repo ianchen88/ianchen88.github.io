@@ -62,9 +62,9 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Abstract**</small>  
 <small>Cybersecurity</small>   
 
-| <img src="/images/cstalks/xiao_fu.jpg" width="150" />     | [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/), Oregon State University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, Feb 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
-
 <h2 id="previous"> Previous talks</h2> 
+
+| <img src="/images/cstalks/xiao_fu.jpg" width="150" />     | [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/), Oregon State University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, Feb 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
 
 <small>**Title:** Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective</small>  
 <small>**Abstract**</small>  
