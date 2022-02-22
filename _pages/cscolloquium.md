@@ -24,7 +24,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 {% include base_path %}
 <h2 id="uncoming"> Upcoming talks</h2> 
 
-| <img src="/images/cstalks/Dr. Hu.jpg" width="150" />      | [Dr. Yidan Hu](http://yidanhu.csec.rit.edu/), Rochester Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, April 29 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/cstalks/Dr. Hu.jpg" width="150" />      | [Dr. Yidan Hu](http://yidanhu.csec.rit.edu/), Rochester Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, April 29 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Secure Database-Driven Dynamic Spectrum Sharing</small>  
 <small>**Abstract**</small>  
@@ -32,31 +32,31 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Speaker**</small>  
 <small>Yidan Hu is an Assistant Professor in the Department of Computing Security at Rochester Institute of Technology (RIT). She received her B.E. and M.E. degrees in Computer Science from Hangzhou Dianzi University in 2013 and 2016, respectively, and Ph.D. degree in Computer Science from the University of Delaware in 2021. Her research interests are security and privacy issues in networked and distributed systems with the current focuses on cognitive radio networks, mobile crowdsourcing, cloud computing, mobile computing, and private data analysis. She has published her research in various prestigious venues, including IEEE/ACM Transactions on Networking, IEEE INFOCOM, and IEEE ICNP, and won the Best Paper Runner-up at IEEE/ACM IWQoS 2019.</small>  
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Jesse Hamilton](https://medicine.umich.edu/dept/radiology/jesse-hamilton-phd), University of Michigan. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 15 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Jesse Hamilton](https://medicine.umich.edu/dept/radiology/jesse-hamilton-phd), University of Michigan. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 15 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** MRI and physics-driven deep learning</small>  
 <small>**Abstract**</small>  
 <small>TBD. MRI and physics-driven deep learning</small>
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Baopu Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Baidu Research. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Baopu Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Baidu Research. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Neural Network Architecture Search (NAS)</small>  
 <small>**Abstract**</small>  
 <small>NAS.</small>
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Natural Language Processing (NLP)</small>  
 <small>**Abstract**</small>  
 <small>NLP</small> 
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 25 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 25 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Revisiting password strength and password rest</small>  
 <small>**Abstract**</small>  
 <small>Security</small>
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Machine Learning in wireless networking</small>  
 <small>**Abstract**</small>  
@@ -64,7 +64,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 
 <h2 id="previous"> Previous talks</h2> 
 
-| <img src="/images/cstalks/xiao_fu.jpg" width="150" />     | [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/), Oregon State University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, Feb 18 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/cstalks/xiao_fu.jpg" width="150" />     | [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/), Oregon State University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, Feb 18 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective</small>  
 <small>**Abstract**</small>  
@@ -73,7 +73,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>Xiao Fu received the B.Eng. and MSc. degrees from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2005 and 2010, respectively. He received the Ph.D. degree in Electronic Engineering from The Chinese University of Hong Kong (CUHK), Shatin, N.T., Hong Kong, in 2014. He was a Postdoctoral Associate with the Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN, USA, from 2014 to 2017.  Since 2017, he has been an Assistant Professor with the School of Electrical Engineering and Computer Science, Oregon State University, Corvallis, OR, USA.  His research interests include the broad area of signal processing and machine learning. </small>  
 <small>Dr. Fu received a Best Student Paper Award at ICASSP 2014, and was a recipient of the Outstanding Postdoctoral Scholar Award at University of Minnesota in 2016. His coauthored papers received Best Student Paper Awards from IEEE CAMSAP 2015 and IEEE MLSP 2019, respectively.  He serves as a member of the Sensor Array and Multichannel Technical Committee (SAM-TC) of the IEEE Signal Processing Society (SPS). He is also a member of the Signal Processing for Multisensor Systems Technical Area Committee (SPMuS-TAC) of EURASIP. He is the Treasurer of the IEEE SPS Oregon Chapter. He serves as an Editor of Signal Processing. He was a tutorial speaker at ICASSP 2017 and SIAM Conference on Applied Linear Algebra 2021.</small>  
 
-| <img src="/images/cstalks/ziming.jpeg" width="150" />      | [Dr. Ziming Zhao](https://zzm7000.github.io/), [CactiLab](https://cactilab.github.io/), University at Buffalo. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, Feb. 11 <br /> Location: Zoom （Meeting ID: 731 126 8370，Passcode: cstalks） |
+| <img src="/images/cstalks/ziming.jpeg" width="150" />      | [Dr. Ziming Zhao](https://zzm7000.github.io/), [CactiLab](https://cactilab.github.io/), University at Buffalo. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, Feb. 11 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Rethinking Trusted Execution Environments for Embedded and IoT Systems</small>  
 <small>**Abstract**</small>  
