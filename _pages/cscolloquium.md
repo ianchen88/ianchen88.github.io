@@ -56,7 +56,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Abstract**</small>  
 <small>Security</small>
 
-| <img src="/images/vijay.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+| <img src="/images/cstalks/vijay.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Intelligent 5G and Beyond 5G Radio Access Networks (RANs)</small>  
 <small>**Abstract**</small>  
