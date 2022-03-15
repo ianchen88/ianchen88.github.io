@@ -56,11 +56,13 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Abstract**</small>  
 <small>Security</small>
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+| <img src="/images/vijay.png" width="150" />     | [Dr. Vijay Shah](https://mason.gmu.edu/~vshah22/), George Mason University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 18 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
-<small>**Title:** Machine Learning in wireless networking</small>  
+<small>**Title:** Intelligent 5G and Beyond 5G Radio Access Networks (RANs)</small>  
 <small>**Abstract**</small>  
-<small>Cybersecurity</small>   
+<small>On contrary to previous generation mobile wireless networks, 5G and Beyond (B5G) wireless networks are expected to undergo an unprecedented. Consequently, B5G wireless networks, particularly, radio access networks (RANs) are becoming increasingly. In this talk, we will discuss a few recent works where we designed AI techniques to solve key challenges in B5G RANs (especially, PHY and MAC layers). Following this, we briefly present an emerging industry-driven open radio access network (O-RAN) architecture that provides sufficient openness, flexibility, and well-defined interfaces to incorporate intelligence in RANs.<br /></small>
+<small>**Speaker**</small>  
+<small>Dr. Vijay K. Shah is an Assistant Professor in the Cybersecurity Engineering (CYSE) Department at George Mason University, Fairfax, VA. He is also a faculty member of Commonwealth Cyber Initiative, a Virginia state-wide initiative to foster 5G wireless, autonomous systems, data and cybersecurity research. Before joining Mason in 2021, he was a Research Assistant Professor at Virginia Tech. Dr. Shah research interests include 5G/NextG wireless networks, O-RAN, and wireless testbed prototyping. He has served as a PI/Co-PI on a dozen of federal and state-funded research projects, including NSF CCRI project where we will prototype Open AI Cellular (OAIC) framework.</small>  
 
 <h2 id="previous"> Previous talks</h2> 
 
