@@ -15,7 +15,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 | Ziming Zhao | SUNY | Feb. 11, 2022 | 03:30 – 04:30 PM|
 | Xiao Fu | OSU | Feb. 18, 2022 | 01:30 – 02:30 PM|
 | Vijay Shah | GMU | Mar. 18, 2022 | 03:30 – 04:30 PM|
-| Sruti Bhagavatula | Northwestern | Mar. 25, 2022 | 03:30 – 04:30 PM|
+| Sruti Bhagavatula | Northwestern | Mar. 25, 2022 | 01:30 – 02:30 PM|
 | Ping Wang | Stevens | Apr. 1, 2022 | 03:30 – 04:30 PM|
 | Jesse Hamilton | UMich | Apr. 15, 2022 | 03:30 – 04:30 PM|
 | Baopu Li | Baidu USA | Apr. 22, 2022 | 03:30 – 04:30 PM|
@@ -50,7 +50,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Abstract**</small>  
 <small>NLP</small> 
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, March 25 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, March 25 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Revisiting password strength and password rest</small>  
 <small>**Abstract**</small>  
