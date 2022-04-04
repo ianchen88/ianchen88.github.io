@@ -45,7 +45,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>TBD. MRI and physics-driven deep learning</small>
 
 <h2 id="previous"> Previous talks</h2> 
-| <img src="/images/cstalks/Dr Wang.jpeg" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+| <img src="/images/cstalks/Dr Wang.jpg" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** Automatic Information Retrieval and Extraction from Electronic Health Records</small>  
 <small>**Abstract**</small>  
