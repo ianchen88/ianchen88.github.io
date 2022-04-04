@@ -40,15 +40,18 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 
 | <img src="/images/profile.png" width="150" />     | [Dr. Baopu Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Baidu Research. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
-<small>**Title:** Neural Network Architecture Search (NAS)</small>  
+<small>**Title:** MRI and physics-driven deep learning</small>  
 <small>**Abstract**</small>  
-<small>NAS.</small>
+<small>TBD. MRI and physics-driven deep learning</small>
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+<h2 id="previous"> Previous talks</h2> 
+| <img src="/images/cstalks/Dr Wang.jpeg" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
-<small>**Title:** Natural Language Processing (NLP)</small>  
+<small>**Title:** Automatic Information Retrieval and Extraction from Electronic Health Records</small>  
 <small>**Abstract**</small>  
-<small>NLP</small> 
+<small>Healthcare systems are changing in the era of big data. Advances of artificial intelligence in healthcare make it possible for healthcare providers to sift through tremendous amounts of information efficiently, which eventually help them take care of their patients better. In this talk, I will first introduce our work about question answering on EHR, including text-to-SQL query generation and clinical knowledge base question answering, which aims to seek answers for clinical activity related questions from Tabular EHR and unstructured clinical notes, respectively. This work helps us understand more about the challenges in retrieving information from different data types in EHR. Finally, I will introduce our current work about event extraction from unstructured texts.<br /></small>
+<small>**Bio**</small>
+<small>Ping Wang is an Assistant Professor in the Department of Computer Science at Stevens Institute of Technology. She received her Ph.D. from Virginia Tech under the supervision of Dr. Chandan K. Reddy in 2021. Her research interests are in the broad area of data mining and machine learning with particular focus on healthcare analytics, including clinical question answering, information extraction, graph mining, and survival analysis. She has published papers in leading conferences (e.g., WWW, CIKM, and AAAI) and high impact journals (e.g., ACM Computing Surveys and IEEE TKDE). She won the “Research PhD Student of the Year” award (one per year) from the Department of Computer Science at Virginia Tech in 2021.</small> 
 
 | <img src="/images/cstalks/sruti.jpeg" width="150" />     | [Dr. Sruti Bhagavatula](https://users.cs.northwestern.edu/~srutib/), Northwestern University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, March 25 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
@@ -65,8 +68,6 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>On contrary to previous generation mobile wireless networks, 5G and Beyond (B5G) wireless networks are expected to undergo an unprecedented. Consequently, B5G wireless networks, particularly, radio access networks (RANs) are becoming increasingly. In this talk, we will discuss a few recent works where we designed AI techniques to solve key challenges in B5G RANs (especially, PHY and MAC layers). Following this, we briefly present an emerging industry-driven open radio access network (O-RAN) architecture that provides sufficient openness, flexibility, and well-defined interfaces to incorporate intelligence in RANs.<br /></small>
 <small>**Speaker**</small>  
 <small>Dr. Vijay K. Shah is an Assistant Professor in the Cybersecurity Engineering (CYSE) Department at George Mason University, Fairfax, VA. He is also a faculty member of Commonwealth Cyber Initiative, a Virginia state-wide initiative to foster 5G wireless, autonomous systems, data and cybersecurity research. Before joining Mason in 2021, he was a Research Assistant Professor at Virginia Tech. Dr. Shah research interests include 5G/NextG wireless networks, O-RAN, and wireless testbed prototyping. He has served as a PI/Co-PI on a dozen of federal and state-funded research projects, including NSF CCRI project where we will prototype Open AI Cellular (OAIC) framework.</small>  
-
-<h2 id="previous"> Previous talks</h2> 
 
 | <img src="/images/cstalks/xiao_fu.jpg" width="150" />     | [Dr. Xiao Fu](https://web.engr.oregonstate.edu/~fuxia/), Oregon State University. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:30 PM – 02:30 PM ET, Feb 18 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
