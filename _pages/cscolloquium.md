@@ -32,19 +32,31 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Speaker**</small>  
 <small>Yidan Hu is an Assistant Professor in the Department of Computing Security at Rochester Institute of Technology (RIT). She received her B.E. and M.E. degrees in Computer Science from Hangzhou Dianzi University in 2013 and 2016, respectively, and Ph.D. degree in Computer Science from the University of Delaware in 2021. Her research interests are security and privacy issues in networked and distributed systems with the current focuses on cognitive radio networks, mobile crowdsourcing, cloud computing, mobile computing, and private data analysis. She has published her research in various prestigious venues, including IEEE/ACM Transactions on Networking, IEEE INFOCOM, and IEEE ICNP, and won the Best Paper Runner-up at IEEE/ACM IWQoS 2019.</small>  
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Jesse Hamilton](https://medicine.umich.edu/dept/radiology/jesse-hamilton-phd), University of Michigan. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 15 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
-
-<small>**Title:** MRI and physics-driven deep learning</small>  
-<small>**Abstract**</small>  
-<small>TBD. MRI and physics-driven deep learning</small>
-
 | <img src="/images/profile.png" width="150" />     | [Dr. Baopu Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Baidu Research. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
 <small>**Title:** MRI and physics-driven deep learning</small>  
 <small>**Abstract**</small>  
 <small>TBD. MRI and physics-driven deep learning</small>
 
+| <img src="/images/cstalks/Jesse.png" width="150" />     | [Dr. Jesse Hamilton](https://medicine.umich.edu/dept/radiology/jesse-hamilton-phd), University of Michigan. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 15 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+
+<small>**Title:** Rapid Cardiac Magnetic Resonance Imaging: MR Fingerprinting and Physics-Based Deep Learning</small>  
+<small>**Abstract**</small>  
+<small>Cardiac Magnetic Resonance Fingerprinting (MRF) is a novel framework for obtaining quantitative maps of multiple tissue properties (such as the MRI relaxation times T1 and T2) from one rapid acquisition. The purpose of this talk is to introduce the basics of the cardiac MRF technique and provide an overview of recent advances in cardiac MRF, including the use of physics-based deep learning to shorten scan times and improve image quality. During the first half of the presentation, the basic steps in acquiring and reconstructing cardiac MRF data will be described, including pulse sequence design, k-space sampling methods, dictionary generation, and pattern matching. Next, recent advances in cardiac MRF will be discussed, including 1) 3D free-breathing MRF; 2) cine MRF for simultaneous functional imaging and tissue characterization, and 3) applications of deep learning for MRF dictionary generation and parameter map reconstruction.</small>
+<small>**Speaker**</small>
+<small>Jesse Hamilton received his B.S. degree in Biomedical Engineering from Johns Hopkins University, Baltimore, MD, USA in 2012, and his Ph.D. degree from Case Western Reserve University in 2018 with a focus on rapid quantitative magnetic resonance imaging techniques. After completing postdoctoral research at Case Western Reserve University and the University of Michigan, he joined the Department of Radiology at the University of Michigan as an Assistant Professor in 2020 with a secondary appointment in Biomedical Engineering. Currently, his work focuses on the development of rapid quantitative cardiac MRI methods for imaging the heart, including Magnetic Resonance Fingerprinting, as well as physics-based deep learning algorithms for reconstructing MRI data. He is active in multiple societies, including the International Society for Magnetic Resonance in Medicine and the Society for Cardiovascular Magnetic Resonance, and has authored or co-authored over 20 peer-reviewed articles in the field of rapid imaging and quantitative MRI.</small>
+
 <h2 id="previous"> Previous talks</h2> 
+
+| <img src="/images/cstalks/ribeiro.jpg" width="150" />     | [Dr. Hugo Ribeiro](https://hugo-ribeiro.github.io/), UMASS Lowell. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:00 PM – 02:00 PM ET, April 6 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+
+<small>**Title:** Quantum Information Science and Technologies: Research Opportunities in Computer Science</small>  
+<small>**Abstract**</small>  
+<small>Quantum mechanics is a century-old theory that successfully describes counterintuitive phenomena of the microscopic world. Phenomena that, until not so long ago, would be considered irrelevant for the “real”, macroscopic world. Quantum technologies are, however, nowadays providing a paradigm shift in this thinking: They offer a wealth of potentially revolutionary applications that could change the field of Information and Communication Technology and lead to tremendous breakthroughs in disciplines such as medicine and chemistry. 
+In this talk, I will introduce the fundamentals of quantum computing and present the current status, future opportunities, and remaining challenges of the field.
+</small>
+<small>**Speaker**</small>
+<small>Dr. Hugo Ribeiro is an Assistant Professor in the Department of Physics and Applied Physics at the University of Massachusetts Lowell. His research focuses on Quantum Information Science, with a particular emphasis on quantum control, decoherence, and architectures for quantum computing. He holds a PhD degree from the University of Konstanz (Germany) and a M. Sc. degree from Ecole Polytechnique Fédérale de Lausanne (Switzerland).</small>
 
 | <img src="/images/cstalks/Dr Wang.jpg" width="150" />     | [Dr. Ping Wang](http://leafnlp.org/pingwang/), Stevens Institute of Technology. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 1 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
