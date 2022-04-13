@@ -17,6 +17,7 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 | Vijay Shah | GMU | Mar. 18, 2022 | 03:30 – 04:30 PM|
 | Sruti Bhagavatula | Northwestern | Mar. 25, 2022 | 01:30 – 02:30 PM|
 | Ping Wang | Stevens | Apr. 1, 2022 | 03:30 – 04:30 PM|
+| Hugo Ribeiro | UMASS Lowell | Apr. 6, 2022 | 01:00 – 02:00 PM|
 | Jesse Hamilton | UMich | Apr. 15, 2022 | 03:30 – 04:30 PM|
 | Baopu Li | Baidu USA | Apr. 22, 2022 | 03:30 – 04:30 PM|
 | Yidan Hu | RIT | Apr. 29, 2022 | 01:30 – 02:30 PM|
