@@ -14,12 +14,11 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 | Hoi-To Wai | CUHK | Dec. 10, 2021 | 09:30 – 10:30 AM|
 | Ziming Zhao | SUNY | Feb. 11, 2022 | 03:30 – 04:30 PM|
 | Xiao Fu | OSU | Feb. 18, 2022 | 01:30 – 02:30 PM|
-| Vijay Shah | GMU | Mar. 18, 2022 | 03:30 – 04:30 PM|
 | Sruti Bhagavatula | Northwestern | Mar. 25, 2022 | 01:30 – 02:30 PM|
 | Ping Wang | Stevens | Apr. 1, 2022 | 03:30 – 04:30 PM|
 | Hugo Ribeiro | UMASS Lowell | Apr. 6, 2022 | 01:00 – 02:00 PM|
 | Jesse Hamilton | UMich | Apr. 15, 2022 | 03:30 – 04:30 PM|
-| Baopu Li | Baidu USA | Apr. 22, 2022 | 03:30 – 04:30 PM|
+| Paul Li | Oracle Cloud | Apr. 22, 2022 | 04:30 – 05:30 PM|
 | Yidan Hu | RIT | Apr. 29, 2022 | 01:30 – 02:30 PM|
 
 {% include base_path %}
@@ -33,11 +32,15 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>**Speaker**</small>  
 <small>Yidan Hu is an Assistant Professor in the Department of Computing Security at Rochester Institute of Technology (RIT). She received her B.E. and M.E. degrees in Computer Science from Hangzhou Dianzi University in 2013 and 2016, respectively, and Ph.D. degree in Computer Science from the University of Delaware in 2021. Her research interests are security and privacy issues in networked and distributed systems with the current focuses on cognitive radio networks, mobile crowdsourcing, cloud computing, mobile computing, and private data analysis. She has published her research in various prestigious venues, including IEEE/ACM Transactions on Networking, IEEE INFOCOM, and IEEE ICNP, and won the Best Paper Runner-up at IEEE/ACM IWQoS 2019.</small>  
 
-| <img src="/images/profile.png" width="150" />     | [Dr. Baopu Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Baidu Research. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
+| <img src="/images/profile.png" width="150" />     | [Dr. Paul Li](https://scholar.google.com/citations?user=OOY-4CwAAAAJ&hl=en), Oracle Cloud. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 04:30 PM – 05:30 PM ET, April 22 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
-<small>**Title:** MRI and physics-driven deep learning</small>  
+<small>**Title:** Auto Machine Learning by Neural Architecture Search</small>  
 <small>**Abstract**</small>  
-<small>TBD. MRI and physics-driven deep learning</small>
+<small>Neural architecture search (NAS) has been a popular trend in Auto ML. However, it generally requires great computation to obtain an optimal network structure for different deep learning tasks. In this talk, I will briefly review what we have done on this aspect. Specifically, I will present two of our works published on ICCV 2021 along this direction. 1) NAS with batch normalization to greatly boost the efficiency of NAS; 2) NAS for global and local image transformer aiming for a better vision transformer.<br /></small>
+<small>**Bio**</small>  
+<small>Dr. Paul Li obtained his Ph.D. degree in the field of computer vision and robotics from the Chinese University of Hong Kong in year 2008. After that, he had been with the Chinese Academy of Sciences in China leading a research center of about 30 members as an associate professor and Ph.D. supervisor. Since 2016, he changed his career path to industry in USA, and now he is a director at Oracle Cloud. Before that, he worked as a principal scientist at Baidu USA. His current major research and development interests include Auto machine learning (ML), low-level image processing, and video understanding, together with their applications on cloud and edge devices.</small>
+
+<h2 id="previous"> Previous talks</h2> 
 
 | <img src="/images/cstalks/Jesse.png" width="150" />     | [Dr. Jesse Hamilton](https://medicine.umich.edu/dept/radiology/jesse-hamilton-phd), University of Michigan. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 03:30 PM – 04:30 PM ET, April 15 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
@@ -46,8 +49,6 @@ Our <a href="#upcoming">upcoming</a> and <a href="#previous">previous</a> CS tal
 <small>Cardiac Magnetic Resonance Fingerprinting (MRF) is a novel framework for obtaining quantitative maps of multiple tissue properties (such as the MRI relaxation times T1 and T2) from one rapid acquisition. The purpose of this talk is to introduce the basics of the cardiac MRF technique and provide an overview of recent advances in cardiac MRF, including the use of physics-based deep learning to shorten scan times and improve image quality. During the first half of the presentation, the basic steps in acquiring and reconstructing cardiac MRF data will be described, including pulse sequence design, k-space sampling methods, dictionary generation, and pattern matching. Next, recent advances in cardiac MRF will be discussed, including 1) 3D free-breathing MRF; 2) cine MRF for simultaneous functional imaging and tissue characterization, and 3) applications of deep learning for MRF dictionary generation and parameter map reconstruction.<br /></small>
 <small>**Speaker**</small>
 <small>Jesse Hamilton received his B.S. degree in Biomedical Engineering from Johns Hopkins University, Baltimore, MD, USA in 2012, and his Ph.D. degree from Case Western Reserve University in 2018 with a focus on rapid quantitative magnetic resonance imaging techniques. After completing postdoctoral research at Case Western Reserve University and the University of Michigan, he joined the Department of Radiology at the University of Michigan as an Assistant Professor in 2020 with a secondary appointment in Biomedical Engineering. Currently, his work focuses on the development of rapid quantitative cardiac MRI methods for imaging the heart, including Magnetic Resonance Fingerprinting, as well as physics-based deep learning algorithms for reconstructing MRI data. He is active in multiple societies, including the International Society for Magnetic Resonance in Medicine and the Society for Cardiovascular Magnetic Resonance, and has authored or co-authored over 20 peer-reviewed articles in the field of rapid imaging and quantitative MRI.</small>
-
-<h2 id="previous"> Previous talks</h2> 
 
 | <img src="/images/cstalks/ribeiro.jpg" width="150" />     | [Dr. Hugo Ribeiro](https://hugo-ribeiro.github.io/), UMASS Lowell. <br /> Host: Dr. Ian Chen, UMASS, Lowell <br /> Time: 01:00 PM – 02:00 PM ET, April 6 <br /> Location: Zoom （Meeting ID: 731 126 8370） |
 
