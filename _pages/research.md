@@ -25,6 +25,7 @@ I'm very lucky to work with the following talented students. Join us if you have
   + Shixiong Li (BS/MS from Southwest Jiaotong Univ.)
   + Xingyu Lyu (BS from Shanghai Univ., MS from Guangzhou Univ.)
 * Master students
+  + Manita Ngarmpaiboonsombat (Model stealing attacks, UML)
   + Poornika Bonam (Private NLP, UML)
   + Yang Hu (Adversarial example attacks, VT)
 * Undergrad students
