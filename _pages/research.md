@@ -21,14 +21,14 @@ Currently, I'm working on the following projects. Feel free to drop by or send m
 
 <h2>Members</h2>
 I'm very lucky to work with the following talented students. Join us if you have interests in our projects!
+* PhD students
+  + Shixiong Li (BS/MS from Southwest Jiaotong Univ.)
+  + Xingyu Lyu (BS from Shanghai Univ., MS from Guangzhou Univ.)
 * Master students
-  + Bibi Hajira Mahammada (GAN for wireless, UML)
   + Poornika Bonam (Private NLP, UML)
-  + Sohim Khokhar (Transfer learning, UML)
   + Yang Hu (Adversarial example attacks, VT)
 * Undergrad students
   + Jared Q Widberg (Reverse engineering, UML HONOR Thesis)
-  + Jacob N Gilk (Private learning, UML)
 
 <h2> Collaboration</h2> 
-I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://faculty.uml.edu/~alam/) at UML, [Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at Virginia Tech.
+I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://faculty.uml.edu/~alam/) at UML, [Dr. Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at Virginia Tech.
