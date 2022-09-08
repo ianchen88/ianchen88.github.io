@@ -13,7 +13,8 @@ I am a tenure-track assistant professor at [CS@UMass Lowell](https://www.uml.edu
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
-* Our paper **Clang __usercall: Towards Native Support for User Defined Calling Conventions** is accepted by ACM ESEC/FSE 2022 Demo track. The idea is to mimic popular syntax and adapting Clang for interfacing purpose of C/C++ code. Congrutulation to Jared and other authors. (Aug. 2022)
+* Our paper **Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning** is accepted by ACSAC 2022 (Acceptance ratio: 73/303=24.0%). The idea is to adapt differential privacy to address data privacy challenges in Federated Meta-Learning. Congrutulation to Ning and other authors. (Sep. 2022)
+* * Our paper **Clang __usercall: Towards Native Support for User Defined Calling Conventions** is accepted by ACM ESEC/FSE 2022 Demo track. The idea is to mimic popular syntax and adapting Clang for interfacing purpose of C/C++ code. Congrutulation to Jared and other authors. (Aug. 2022)
 * Our paper **Transferability of Adversarial Examples in Machine Learning-based Malware Detection** is accepted by IEEE CNS 2022. The idea is to spread out adversarial perturbations in order to improve transferability of adversary example attacks. Congrutulation to Yang and other authors. (Aug. 2022)
 * Ian is to serve as a TPC member for 2022 IEEE INFOCOM, CNS, and MASS. (Apr. 2022)
 * Our paper **FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations** is accepted by ACM ASIACCS 2022 (Acceptance ratio: 18.4%). The idea is to detect model poisoning attacks on federated learning by exploring the penultimate layer representations of neural network. Congrutulation to Ning and other authors. (Feb. 2022)
