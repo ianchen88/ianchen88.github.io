@@ -18,8 +18,10 @@ Awards and Recognitions
 
 Professional Services
 ======
-* NSF Panelist 2022
 * Program Committee Member:
+  * IEEE INFOCOM 2022
+  * IEEE MASS 2022
+  * IEEE CNS 2022
   * ACM WiSec 2020
   
 * Conference Reviewer:
