@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <h2 id="biography"> About Ian</h2>  
-I am an incoming tenure-track assistant professor at [CS@UMass Lowell](https://www.uml.edu/sciences/computer-science/). I work on machine learning and IoT. Before joining UML, I was a postdoc at [CNSR@VT](https://www.cnsr.ictas.vt.edu/) and obtained my Ph.D. at [CNSG@ASU](http://cnsg.asu.edu). I received my B.S. from EECS@Peking University and M.Phil from EE@The Chinese University of Hong Kong.
+I am a tenure-track assistant professor at [CS@UMass Lowell](https://www.uml.edu/sciences/computer-science/). I work on machine learning and IoT. Before joining UMass Lowell, I was a postdoc at [CNSR@VT](https://www.cnsr.ictas.vt.edu/) and obtained my Ph.D. at [CNSG@ASU](http://cnsg.asu.edu). I received my B.S. from EECS@Peking University and M.Phil from EE@The Chinese University of Hong Kong.
 
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
