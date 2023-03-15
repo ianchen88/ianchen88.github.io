@@ -22,14 +22,14 @@ Currently, I'm working on the following projects. Feel free to drop by or send m
 <h2>Members</h2>
 I'm very lucky to work with the following talented students. Join us if you have interests in our projects!
 * PhD students
-  + Shixiong Li (BS/MS from Southwest Jiaotong Univ.)
-  + Xingyu Lyu (BS from Shanghai Univ., MS from Guangzhou Univ.)
+  + Shixiong Li (2022'fall to present, BS/MS from Southwest Jiaotong Univ.)
+  + Xingyu Lyu (2022'fall to present, BS from Shanghai Univ., MS from Guangzhou Univ.)
+  + Zahra SharifiSoltani (2023'spring to present, Co-supervision with Dr. Sashank Narain, BS/MS from Islamic Azad Univ.)
 * Master students
-  + Manita Ngarmpaiboonsombat (Model stealing attacks, UML)
   + Poornika Bonam (Private NLP, UML)
-  + Yang Hu (Adversarial example attacks, VT)
 * Undergrad students
-  + Jared Q Widberg (Reverse engineering, UML HONOR Thesis)
+  + Jared Q Widberg (2022'spring to 2022'fall, Reverse engineering, UML HONOR Thesis)
+  + Michelle Ly (2022'fall to 2023'spring, NLP, UML Immersive Scholar)
 
 <h2> Collaboration</h2> 
 I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at IUPUI, [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) and [Dr. Mohammad Arif Ul Alam](https://faculty.uml.edu/~alam/) at UML, [Dr. Yang Xiao](https://sites.google.com/vt.edu/yang-xiao-personal/home), Ning Wang, Yang Hu, and [Jianfeng He](https://sites.google.com/vt.edu/jfhe/home) at Virginia Tech.
