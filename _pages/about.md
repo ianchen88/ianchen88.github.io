@@ -13,6 +13,7 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Ian is to serve as a TPC member for 2023 IEEE CNS and ICCCN. (Mar. 2023)
 * Our paper **Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning** is accepted by ACSAC 2022 (Acceptance ratio: 73/303=24.0%). The idea is to adapt differential privacy to address data privacy challenges in Federated Meta-Learning. Congrutulation to Ning and other authors. (Sep. 2022)
 * Our paper **Clang __usercall: Towards Native Support for User Defined Calling Conventions** is accepted by ACM ESEC/FSE 2022 Demo track. The idea is to mimic popular syntax and adapting Clang for interfacing purpose of C/C++ code. Congrutulation to Jared and other authors. (Aug. 2022)
 * Our paper **Transferability of Adversarial Examples in Machine Learning-based Malware Detection** is accepted by IEEE CNS 2022. The idea is to spread out adversarial perturbations in order to improve transferability of adversary example attacks. Congrutulation to Yang and other authors. (Aug. 2022)
