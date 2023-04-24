@@ -13,6 +13,8 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Ian is to serve as a TPC member for 2023 PETs. (Apr. 2023)
+* Our paper **mmLock: User Leaving Detection against Data Theft via High-Quality mmWave Radar Imaging** is accepted by IEEE ICCCN 2023 as an invited paper. We used PointNet and Bi-LSTM to model user leaving behavior from mmWave radar signals. Congrutulation to Jiawei and other authors. (Apr. 2023)
 * Our paper **DUO: Stealthy Adversarial Example Attack on Video Retrieval Systems via Frame-Pixel Search** is accepted by IEEE ICDCS 2023 (Acceptance ratio: 83/439=18.9%). We proposed a novel adversarial example attack on video retrieval models with sparse perturbations only. Congrutulation to Xin and other authors. (Apr. 2023)
 * Ian is to serve as a TPC member for 2023 IEEE CNS and ICCCN. (Mar. 2023)
 * Our paper **Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning** is accepted by ACSAC 2022 (Acceptance ratio: 73/303=24.0%). The idea is to adapt differential privacy to address data privacy challenges in Federated Meta-Learning. Congrutulation to Ning and other authors. (Sep. 2022)
