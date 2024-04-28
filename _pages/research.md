@@ -36,6 +36,6 @@ I'm very lucky to work with the following talented students. Join us if you have
   + Manita (Spring 2023 MS. First stop: SANBlaze Technology)
   + Jared Q Widberg (Spring 2023 BS. First stop: BAE Systems, Inc.)
 * Exchange students/scholars
-  + Tsz Him Shek (2023'summer, Contrastive learning, The Chinese University of Hong Kong; Next stop: MSc at Applied Computer, U Toronto)
+  + Tsz Him Shek (2023'summer, Contrastive learning, The Chinese University of Hong Kong; Next stop: MSc at Applied Computing, U Toronto)
 <h2> Collaborations</h2> 
 I work closely with [Dr. Tao Li](https://sites.google.com/view/tao-li/home) at CIT Purdue, [Dr. Danjue Chen](https://sites.google.com/site/danjuechen/) at NCSU, [Dr. Ning Wang](https://ning-wang1.github.io/) at USF, and [Dr. Sashank Narain](https://www.uml.edu/profile/Sashank_Narain) at UML.
