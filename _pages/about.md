@@ -13,7 +13,7 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
-* Ian is to serve as a TPC member for 2025 PETs and 2024 IEEE CNS. (Apr. 2024)
+* Ian is to serve as a TPC member for IEEE CNS 2024, WPES 2024 (Co-located with ACM CCS 2024), IEEE MILCOM 2024, PETs 2025, and IEEE INFOCOM 2025. (May 2024)
 * Our paper **Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping** is accepted by ACM WiSec 2024 as a full paper. We explored the impacts of data poisoning attacks on supervised contrastive learning and existing selection schemes as the defense. Congrutulation to Amit and other authors. (Apr. 2024)
 * Ian is to serve as a TPC member for 2024 PETs, IEEE INFOCOM and MILCOM. (Apr. 2023)
 * Our paper **mmLock: User Leaving Detection against Data Theft via High-Quality mmWave Radar Imaging** is accepted by IEEE ICCCN 2023 as an invited paper. We used PointNet and Bi-LSTM to model user leaving behavior from mmWave radar signals. Congrutulation to Jiawei and other authors. (Apr. 2023)
