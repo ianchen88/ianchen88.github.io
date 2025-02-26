@@ -13,7 +13,7 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
-* Our OpenTrigger attack on deep Learning is accepted by PAKDD 2025 Special Session DSFA. ([Project](https://shixiong-li.github.io/OpenTriggerPage/), [Code](https://github.com/Shixiong-Li/openTrigger))
+* Our OpenTrigger attack on deep learning is accepted by PAKDD 2025 Special Session DSFA. ([Project](https://shixiong-li.github.io/OpenTriggerPage/), [Code](https://github.com/Shixiong-Li/openTrigger))
 * Ian is to serve as a TPC member for IEEE CNS 2025. (Feb. 2025)
 * Our AirTrojan attack on Federated Learning is accepted by IEEE CNS 2024. ([Project](https://xingyushu.github.io/AirTrojan/), [Code](https://github.com/CCS2o23/AirTrojan))
 
