@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 <h2 id="biography"> About Ian</h2>  
-I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell](https://www.uml.edu/sciences/computer-science/). I work on machine learning, security, and privacy. Before joining UMASS Lowell, I was a postdoc at [CNSR@VT](https://www.cnsr.ictas.vt.edu/) and obtained my Ph.D. at [CNSG@ASU](http://cnsg.asu.edu). I received my B.S. from EECS@Peking University and M.Phil from EE@The Chinese University of Hong Kong.
+I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell](https://www.uml.edu/sciences/computer-science/). I work on machine learning, security, and privacy. Before joining UMASS Lowell, I was a postdoc at [CNSR@VT](https://www.cnsr.ictas.vt.edu/) and obtained my Ph.D. at [CNSG@ASU](http://cnsg.asu.edu). I received my B.S. from PKU and M.Phil from CUHK, Hong Kong.
 
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Our OpenTrigger attack on deep Learning is accepted by PAKDD 2025 Special Session DSFA. ([Project](https://shixiong-li.github.io/OpenTriggerPage/), [Code](https://github.com/Shixiong-Li/openTrigger))
+* Ian is to serve as a TPC member for IEEE CNS 2025. (Feb. 2025)
+* Our AirTrojan attack on Federated Learning is accepted by IEEE CNS 2024. ([Project](https://xingyushu.github.io/AirTrojan/), [Code](https://github.com/CCS2o23/AirTrojan))
+
+<!-- 
 * Our paper **Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective** is accepted by IEEE CNS 2024. We are the first to identify the new attack vector on Federated Learning, i.e., client selection step, and demonstrate the attack consequences. Congrutulation to Xingyu and other authors. (Aug. 2024)
 * Ian is to serve as a TPC member for IEEE CNS 2024, WPES 2024 (Co-located with ACM CCS 2024), IEEE MILCOM 2024, PETs 2025, and IEEE INFOCOM 2025. (May 2024)
 * Our paper **Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping** is accepted by ACM WiSec 2024 as a full paper. We explored the impacts of data poisoning attacks on supervised contrastive learning and existing selection schemes as the defense. Congrutulation to Amit and other authors. (Apr. 2024)
-
-<!-- 
 * Ian is to serve as a TPC member for 2024 PETs, IEEE INFOCOM and MILCOM. (Apr. 2023)
 * Our paper **mmLock: User Leaving Detection against Data Theft via High-Quality mmWave Radar Imaging** is accepted by IEEE ICCCN 2023 as an invited paper. We used PointNet and Bi-LSTM to model user leaving behavior from mmWave radar signals. Congrutulation to Jiawei and other authors. (Apr. 2023)
 * Our paper **DUO: Stealthy Adversarial Example Attack on Video Retrieval Systems via Frame-Pixel Search** is accepted by IEEE ICDCS 2023 (Acceptance ratio: 83/439=18.9%). We proposed a novel adversarial example attack on video retrieval models with sparse perturbations only. Congrutulation to Xin and other authors. (Apr. 2023)
