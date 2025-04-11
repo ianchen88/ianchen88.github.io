@@ -13,6 +13,7 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Ian is to serve as a TPC member for NDSS 2026. (Apr. 2025)
 * Both DIARY and Physical Backdoors are accepted to IEEE ICDCS 2025. (Mar. 2025)
 * Ian is to serve as a TPC member for IEEE MILCOM 2025 and PETs 2026. (Mar. 2025)
 * Our OpenTrigger attack on deep learning is accepted by PAKDD 2025 Special Session DSFA. ([Project](https://shixiong-li.github.io/OpenTriggerPage/), [Code](https://github.com/Shixiong-Li/openTrigger))
