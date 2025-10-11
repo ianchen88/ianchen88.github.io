@@ -13,6 +13,7 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Our FLBuff defense is accepted by IEEE TrustCom 2025. (Oct. 2025)
 * Our ToxicTextClip attack is accepted by NeurIPS 2025. (Sep. 2025)
 * Our BoBa attack is accepted by ECAI 2025. (Jul. 2025)
 * Our EchoLLM attack is accepted by USENIX Security 2025. See you in Seattle. (Jun. 2025)
