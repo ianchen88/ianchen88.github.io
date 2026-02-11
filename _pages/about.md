@@ -13,6 +13,8 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Two FL defenses, i.e., GeminiGuard and EarlyShield, are accepted by PAKDD. (Feb. 2026)
+* Ian is to serve as a TPC member for VehicleSec 2026, co-located with USENIX 2026. (Jan. 2026)
 * Our FLBuff defense is accepted by IEEE TrustCom 2025. (Oct. 2025)
 * Our ToxicTextClip attack is accepted by NeurIPS 2025. (Sep. 2025)
 * Our BoBa attack is accepted by ECAI 2025. (Jul. 2025)
