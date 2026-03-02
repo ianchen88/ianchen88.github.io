@@ -13,6 +13,7 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Ian is to serve as a workshop co-chair for IEEE CNS 2026. Please consider submitting your proposal (Feb. 2026)
 * Two FL defenses, i.e., GeminiGuard and EarlyShield, are accepted by PAKDD. (Feb. 2026)
 * Ian is to serve as a TPC member for VehicleSec 2026, co-located with USENIX 2026. (Jan. 2026)
 * Our FLBuff defense is accepted by IEEE TrustCom 2025. (Oct. 2025)
