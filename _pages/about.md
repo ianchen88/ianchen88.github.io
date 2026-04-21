@@ -10,6 +10,7 @@ redirect_from:
 <h2 id="biography"> About Ian</h2>  
 I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell](https://www.uml.edu/sciences/computer-science/). I work on machine learning, security, and privacy. Before joining UMASS Lowell, I was a postdoc at [CNSR@VT](https://www.cnsr.ictas.vt.edu/) and obtained my Ph.D. at [CNSG@ASU](http://cnsg.asu.edu). I received my B.S. from PKU and M.Phil from CUHK, Hong Kong.
 
+* Looking for a US-based summer intern working on LLM privacy, e.g., how to protect agent memory. Please reach out if interested.
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
