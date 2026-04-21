@@ -13,6 +13,7 @@ I am a tenure-track assistant professor at [Miner School of CIS at UMASS Lowell]
 * We have ongoing Colloquium at CS@UMass Lowell. Check out the exciting talks [here](https://ianchen88.github.io/cscolloquium/)!
 
 <h2 id="News"> News</h2>
+* Our AudAgent for automatic agent auditing and CCTA-RADS for benchmarking real-world clinical text are accepted to PETs 2026 and ACL Industrial Track, correspondingly. Congratualations to the authors! (Apr. 2026)
 * Ian is to serve as a TPC member for MILCOM and AsiaCCS 2026. (Mar. 2026)
 * Ian is to serve as a workshop co-chair for IEEE CNS 2026. Please consider submitting your proposal (Feb. 2026)
 * Two FL defenses, i.e., GeminiGuard and EarlyShield, are accepted by PAKDD. (Feb. 2026)
